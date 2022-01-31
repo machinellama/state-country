@@ -1,8 +1,9 @@
 # state-country
 
 Get a list of all countries, states, or states within a country.
+Note: only returns names for countries and states, which makes this a simple and minimal package.
 
-Fast, simple, and light-weight.
+Other popular libraries include city data and extended country/state data (e.g. phone or currency info), which inflates package size by quite a lot. But if you don't need city data and you only need country/state names, this package is a fast, simple, and light-weight alternative.
 
 **Installation**
 
