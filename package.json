@@ -1,0 +1,27 @@
+{
+  "name": "state-country",
+  "version": "1.0.0",
+  "description": "Get countries and states from across the world",
+  "main": "index.js",
+  "author": "machinellama",
+  "license": "Unlicense",
+  "keywords": [
+    "states",
+    "countries",
+    "location",
+    "world",
+    "search",
+    "map"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/machinellama/state-country"
+  },
+  "dependencies": {
+    "alasql": "^1.7.3"
+  },
+  "devDependencies": {
+    "csvtojson": "^2.0.10",
+    "superagent": "^7.1.1"
+  }
+}
