@@ -26,7 +26,7 @@ module.exports = {
     return stateCountryJoinList;
   },
 
-  searchState: function (searchTextState) {
+  searchStates: function (searchTextState) {
     const cleanState = cleanInput(searchTextState);
     if (!cleanState) {
       return [];
@@ -41,7 +41,7 @@ module.exports = {
     return stateCountryList;
   },
 
-  searchCountry: function (searchTextCountry) {
+  searchCountries: function (searchTextCountry) {
     const cleanCountry = cleanInput(searchTextCountry);
     if (!cleanCountry) {
       return [];
@@ -51,7 +51,27 @@ module.exports = {
     const countryList = alasql(searchCountryQuery, [countries]);
 
     return countryList;
-  }
+  },
+
+  searchStatesInCountry: function (searchTextState, countryName) {
+    const countryStates = this.getAllStatesInCountry(countryName);
+    if (countryStates.length === 0) {
+      return [];
+    }
+
+    const cleanState = cleanInput(searchTextState);
+    if (!cleanState) {
+      return [];
+    }
+
+    const searchStateQuery = 'SELECT * FROM ? as state WHERE name iLIKE "' + cleanState + '%"';
+    const statesList = alasql(searchStateQuery, [countryStates]);
+
+    const stateCountryJoinQuery = 'SELECT state.*, country.name as countryName FROM ? as state JOIN ? as country ON state.country_id = country.id';
+    const stateCountryList = alasql(stateCountryJoinQuery, [statesList, countries]);
+
+    return stateCountryList;
+  },
 };
 
 function cleanInput(value) {
