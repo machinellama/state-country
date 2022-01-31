@@ -26,15 +26,15 @@ Fast, simple, and light-weight.
 
      const statesList = stateCountry.getAllStates();
 
-**Get states in a given country**
+**Get all states in a given country**
 
      const statesInCountryList = stateCountry.getAllStatesInCountry('jaPaN');
 
-**Country search**
+**Search countries**
 
      const searchCountriesList = stateCountry.searchCountries('jap');
 
-**State search**
+**Search states**
 
      const searchStatesList = stateCountry.searchStates('North');
 
