@@ -1,6 +1,6 @@
 {
   "name": "state-country",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Get countries and states from across the world",
   "main": "index.js",
   "author": "machinellama",
