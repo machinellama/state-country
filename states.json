@@ -942,7 +942,7 @@
     },
     {
       "id": "3636",
-      "name": "San Luis\t",
+      "name": "San Luis",
       "country_id": "11"
     },
     {
@@ -1484,216 +1484,6 @@
       "id": "576",
       "name": "Zardab District",
       "country_id": "16"
-    },
-    {
-      "id": "3601",
-      "name": "Acklins",
-      "country_id": "17"
-    },
-    {
-      "id": "3628",
-      "name": "Acklins and Crooked Islands",
-      "country_id": "17"
-    },
-    {
-      "id": "3593",
-      "name": "Berry Islands",
-      "country_id": "17"
-    },
-    {
-      "id": "3629",
-      "name": "Bimini",
-      "country_id": "17"
-    },
-    {
-      "id": "3605",
-      "name": "Black Point",
-      "country_id": "17"
-    },
-    {
-      "id": "3611",
-      "name": "Cat Island",
-      "country_id": "17"
-    },
-    {
-      "id": "3603",
-      "name": "Central Abaco",
-      "country_id": "17"
-    },
-    {
-      "id": "3631",
-      "name": "Central Andros",
-      "country_id": "17"
-    },
-    {
-      "id": "3596",
-      "name": "Central Eleuthera",
-      "country_id": "17"
-    },
-    {
-      "id": "3621",
-      "name": "Crooked Island",
-      "country_id": "17"
-    },
-    {
-      "id": "3614",
-      "name": "East Grand Bahama",
-      "country_id": "17"
-    },
-    {
-      "id": "3612",
-      "name": "Exuma",
-      "country_id": "17"
-    },
-    {
-      "id": "3626",
-      "name": "Freeport",
-      "country_id": "17"
-    },
-    {
-      "id": "3619",
-      "name": "Fresh Creek",
-      "country_id": "17"
-    },
-    {
-      "id": "3597",
-      "name": "Governor's Harbour",
-      "country_id": "17"
-    },
-    {
-      "id": "3632",
-      "name": "Grand Cay",
-      "country_id": "17"
-    },
-    {
-      "id": "3595",
-      "name": "Green Turtle Cay",
-      "country_id": "17"
-    },
-    {
-      "id": "3613",
-      "name": "Harbour Island",
-      "country_id": "17"
-    },
-    {
-      "id": "3598",
-      "name": "High Rock",
-      "country_id": "17"
-    },
-    {
-      "id": "3624",
-      "name": "Hope Town",
-      "country_id": "17"
-    },
-    {
-      "id": "3609",
-      "name": "Inagua",
-      "country_id": "17"
-    },
-    {
-      "id": "3618",
-      "name": "Kemps Bay",
-      "country_id": "17"
-    },
-    {
-      "id": "3610",
-      "name": "Long Island",
-      "country_id": "17"
-    },
-    {
-      "id": "3625",
-      "name": "Mangrove Cay",
-      "country_id": "17"
-    },
-    {
-      "id": "3604",
-      "name": "Marsh Harbour",
-      "country_id": "17"
-    },
-    {
-      "id": "3633",
-      "name": "Mayaguana District",
-      "country_id": "17"
-    },
-    {
-      "id": "4881",
-      "name": "New Providence",
-      "country_id": "17"
-    },
-    {
-      "id": "3594",
-      "name": "Nichollstown and Berry Islands",
-      "country_id": "17"
-    },
-    {
-      "id": "3616",
-      "name": "North Abaco",
-      "country_id": "17"
-    },
-    {
-      "id": "3617",
-      "name": "North Andros",
-      "country_id": "17"
-    },
-    {
-      "id": "3602",
-      "name": "North Eleuthera",
-      "country_id": "17"
-    },
-    {
-      "id": "3615",
-      "name": "Ragged Island",
-      "country_id": "17"
-    },
-    {
-      "id": "3623",
-      "name": "Rock Sound",
-      "country_id": "17"
-    },
-    {
-      "id": "3600",
-      "name": "Rum Cay District",
-      "country_id": "17"
-    },
-    {
-      "id": "3620",
-      "name": "San Salvador and Rum Cay",
-      "country_id": "17"
-    },
-    {
-      "id": "3627",
-      "name": "San Salvador Island",
-      "country_id": "17"
-    },
-    {
-      "id": "3606",
-      "name": "Sandy Point",
-      "country_id": "17"
-    },
-    {
-      "id": "3608",
-      "name": "South Abaco",
-      "country_id": "17"
-    },
-    {
-      "id": "3622",
-      "name": "South Andros",
-      "country_id": "17"
-    },
-    {
-      "id": "3607",
-      "name": "South Eleuthera",
-      "country_id": "17"
-    },
-    {
-      "id": "3630",
-      "name": "Spanish Wells",
-      "country_id": "17"
-    },
-    {
-      "id": "3599",
-      "name": "West Grand Bahama",
-      "country_id": "17"
     },
     {
       "id": "1992",
@@ -2321,11 +2111,6 @@
       "country_id": "25"
     },
     {
-      "id": "4862",
-      "name": "Hamilton Municipality",
-      "country_id": "25"
-    },
-    {
       "id": "4861",
       "name": "Hamilton Parish",
       "country_id": "25"
@@ -2338,11 +2123,6 @@
     {
       "id": "4864",
       "name": "Pembroke Parish",
-      "country_id": "25"
-    },
-    {
-      "id": "4865",
-      "name": "Saint George's Municipality",
       "country_id": "25"
     },
     {
@@ -3297,67 +3077,72 @@
     },
     {
       "id": "3984",
-      "name": "Banteay Meanchey Province",
+      "name": "Banteay Meanchey",
       "country_id": "37"
     },
     {
       "id": "3976",
-      "name": "Battambang Province",
+      "name": "Battambang",
       "country_id": "37"
     },
     {
       "id": "3991",
-      "name": "Kampong Cham Province",
+      "name": "Kampong Cham",
       "country_id": "37"
     },
     {
       "id": "3979",
-      "name": "Kampong Chhnang Province",
+      "name": "Kampong Chhnang",
       "country_id": "37"
     },
     {
       "id": "3988",
-      "name": "Kampong Speu Province",
+      "name": "Kampong Speu",
+      "country_id": "37"
+    },
+    {
+      "id": "5070",
+      "name": "Kampong Thom",
       "country_id": "37"
     },
     {
       "id": "3981",
-      "name": "Kampot Province",
+      "name": "Kampot",
       "country_id": "37"
     },
     {
       "id": "3983",
-      "name": "Kandal Province",
+      "name": "Kandal",
       "country_id": "37"
     },
     {
       "id": "3978",
-      "name": "Kep Province",
+      "name": "Kep",
       "country_id": "37"
     },
     {
       "id": "3982",
-      "name": "Koh Kong Province",
+      "name": "Koh Kong",
       "country_id": "37"
     },
     {
       "id": "3986",
-      "name": "Kratié Province",
+      "name": "Kratie",
       "country_id": "37"
     },
     {
       "id": "3985",
-      "name": "Mondulkiri Province",
+      "name": "Mondulkiri",
       "country_id": "37"
     },
     {
       "id": "3987",
-      "name": "Oddar Meanchey Province",
+      "name": "Oddar Meanchey",
       "country_id": "37"
     },
     {
       "id": "3980",
-      "name": "Pailin Province",
+      "name": "Pailin",
       "country_id": "37"
     },
     {
@@ -3367,47 +3152,47 @@
     },
     {
       "id": "3973",
-      "name": "Preah Vihear Province",
+      "name": "Preah Vihear",
       "country_id": "37"
     },
     {
       "id": "3974",
-      "name": "Prey Veng Province",
+      "name": "Prey Veng",
       "country_id": "37"
     },
     {
       "id": "3977",
-      "name": "Pursat Province",
+      "name": "Pursat",
       "country_id": "37"
     },
     {
       "id": "3990",
-      "name": "Ratanakiri Province",
+      "name": "Ratanakiri",
       "country_id": "37"
     },
     {
       "id": "3992",
-      "name": "Siem Reap Province",
+      "name": "Siem Reap",
       "country_id": "37"
     },
     {
       "id": "3989",
-      "name": "Sihanoukville Province",
+      "name": "Sihanoukville",
       "country_id": "37"
     },
     {
       "id": "3993",
-      "name": "Stung Treng Province",
+      "name": "Stung Treng",
       "country_id": "37"
     },
     {
       "id": "3972",
-      "name": "Svay Rieng Province",
+      "name": "Svay Rieng",
       "country_id": "37"
     },
     {
       "id": "3975",
-      "name": "Takéo Province",
+      "name": "Takeo",
       "country_id": "37"
     },
     {
@@ -4106,6 +3891,11 @@
       "country_id": "48"
     },
     {
+      "id": "2900",
+      "name": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+      "country_id": "48"
+    },
+    {
       "id": "2880",
       "name": "Atlántico",
       "country_id": "48"
@@ -4218,11 +4008,6 @@
     {
       "id": "2879",
       "name": "Risaralda",
-      "country_id": "48"
-    },
-    {
-      "id": "2900",
-      "name": "San Andrés, Providencia y Santa Catalina",
       "country_id": "48"
     },
     {
@@ -4538,6 +4323,11 @@
     {
       "id": "743",
       "name": "Istria County",
+      "country_id": "55"
+    },
+    {
+      "id": "5069",
+      "name": "Karlovac County",
       "country_id": "55"
     },
     {
@@ -6427,7 +6217,7 @@
     },
     {
       "id": "5035",
-      "name": "Bas-Rhin\t",
+      "name": "Bas-Rhin",
       "country_id": "75"
     },
     {
@@ -6627,12 +6417,12 @@
     },
     {
       "id": "5055",
-      "name": "Haute-Vienne\t",
+      "name": "Haute-Vienne",
       "country_id": "75"
     },
     {
       "id": "4971",
-      "name": "Hautes-Alpes\t",
+      "name": "Hautes-Alpes",
       "country_id": "75"
     },
     {
@@ -6932,7 +6722,7 @@
     },
     {
       "id": "5062",
-      "name": "Val-de-Marne\t",
+      "name": "Val-de-Marne",
       "country_id": "75"
     },
     {
@@ -8747,127 +8537,127 @@
     },
     {
       "id": "3929",
-      "name": "Alborz Province",
+      "name": "Alborz",
       "country_id": "103"
     },
     {
       "id": "3934",
-      "name": "Ardabil Province",
+      "name": "Ardabil",
       "country_id": "103"
     },
     {
       "id": "3932",
-      "name": "Bushehr Province",
+      "name": "Bushehr",
       "country_id": "103"
     },
     {
       "id": "3921",
-      "name": "Chaharmahal and Bakhtiari Province",
+      "name": "Chaharmahal and Bakhtiari",
       "country_id": "103"
     },
     {
       "id": "3944",
-      "name": "East Azerbaijan Province",
+      "name": "East Azerbaijan",
       "country_id": "103"
     },
     {
       "id": "3939",
-      "name": "Fars Province",
+      "name": "Fars",
       "country_id": "103"
     },
     {
       "id": "3920",
-      "name": "Gilan Province",
+      "name": "Gilan",
       "country_id": "103"
     },
     {
       "id": "3933",
-      "name": "Golestan Province",
+      "name": "Golestan",
       "country_id": "103"
     },
     {
       "id": "4920",
-      "name": "Hamadan Province",
+      "name": "Hamadan",
       "country_id": "103"
     },
     {
       "id": "3937",
-      "name": "Hormozgan Province",
+      "name": "Hormozgan",
       "country_id": "103"
     },
     {
       "id": "3918",
-      "name": "Ilam Province",
+      "name": "Ilam",
       "country_id": "103"
     },
     {
       "id": "3923",
-      "name": "Isfahan Province",
+      "name": "Isfahan",
       "country_id": "103"
     },
     {
       "id": "3943",
-      "name": "Kerman Province",
+      "name": "Kerman",
       "country_id": "103"
     },
     {
       "id": "3919",
-      "name": "Kermanshah Province",
+      "name": "Kermanshah",
       "country_id": "103"
     },
     {
       "id": "3917",
-      "name": "Khuzestan Province",
+      "name": "Khuzestan",
       "country_id": "103"
     },
     {
       "id": "3926",
-      "name": "Kohgiluyeh and Boyer-Ahmad Province",
+      "name": "Kohgiluyeh and Boyer-Ahmad",
       "country_id": "103"
     },
     {
       "id": "3935",
-      "name": "Kurdistan Province",
+      "name": "Kurdistan",
       "country_id": "103"
     },
     {
       "id": "3928",
-      "name": "Lorestan Province",
+      "name": "Lorestan",
       "country_id": "103"
     },
     {
       "id": "3916",
-      "name": "Markazi Province",
+      "name": "Markazi",
       "country_id": "103"
     },
     {
       "id": "3938",
-      "name": "Mazandaran Province",
+      "name": "Mazandaran",
       "country_id": "103"
     },
     {
       "id": "3942",
-      "name": "North Khorasan Province",
+      "name": "North Khorasan",
       "country_id": "103"
     },
     {
       "id": "3941",
-      "name": "Qazvin Province",
+      "name": "Qazvin",
       "country_id": "103"
     },
     {
       "id": "3922",
-      "name": "Qom Province",
+      "name": "Qom",
       "country_id": "103"
     },
     {
       "id": "3927",
-      "name": "Razavi Khorasan Province",
+      "name": "Razavi Khorasan",
       "country_id": "103"
     },
     {
       "id": "3940",
-      "name": "Semnan Province",
+      "name": "Semnan",
       "country_id": "103"
     },
     {
@@ -8877,27 +8667,27 @@
     },
     {
       "id": "3930",
-      "name": "South Khorasan Province",
+      "name": "South Khorasan",
       "country_id": "103"
     },
     {
       "id": "3945",
-      "name": "Tehran Province",
+      "name": "Tehran",
       "country_id": "103"
     },
     {
       "id": "3924",
-      "name": "West Azarbaijan Province",
+      "name": "West Azarbaijan",
       "country_id": "103"
     },
     {
       "id": "3936",
-      "name": "Yazd Province",
+      "name": "Yazd",
       "country_id": "103"
     },
     {
       "id": "3925",
-      "name": "Zanjan Province",
+      "name": "Zanjan",
       "country_id": "103"
     },
     {
@@ -8991,133 +8781,63 @@
       "country_id": "104"
     },
     {
+      "id": "1095",
+      "name": "Carlow",
+      "country_id": "105"
+    },
+    {
+      "id": "1088",
+      "name": "Cavan",
+      "country_id": "105"
+    },
+    {
+      "id": "1091",
+      "name": "Clare",
+      "country_id": "105"
+    },
+    {
       "id": "1087",
       "name": "Connacht",
       "country_id": "105"
     },
     {
-      "id": "1095",
-      "name": "County Carlow",
-      "country_id": "105"
-    },
-    {
-      "id": "1088",
-      "name": "County Cavan",
-      "country_id": "105"
-    },
-    {
-      "id": "1091",
-      "name": "County Clare",
-      "country_id": "105"
-    },
-    {
       "id": "1074",
-      "name": "County Cork",
+      "name": "Cork",
       "country_id": "105"
     },
     {
       "id": "1071",
-      "name": "County Donegal",
+      "name": "Donegal",
       "country_id": "105"
     },
     {
       "id": "1072",
-      "name": "County Dublin",
+      "name": "Dublin",
       "country_id": "105"
     },
     {
       "id": "1079",
-      "name": "County Galway",
+      "name": "Galway",
       "country_id": "105"
     },
     {
       "id": "1077",
-      "name": "County Kerry",
+      "name": "Kerry",
       "country_id": "105"
     },
     {
       "id": "1082",
-      "name": "County Kildare",
+      "name": "Kildare",
       "country_id": "105"
     },
     {
       "id": "1090",
-      "name": "County Kilkenny",
+      "name": "Kilkenny",
       "country_id": "105"
     },
     {
       "id": "1096",
-      "name": "County Laois",
-      "country_id": "105"
-    },
-    {
-      "id": "1094",
-      "name": "County Limerick",
-      "country_id": "105"
-    },
-    {
-      "id": "1076",
-      "name": "County Longford",
-      "country_id": "105"
-    },
-    {
-      "id": "1083",
-      "name": "County Louth",
-      "country_id": "105"
-    },
-    {
-      "id": "1084",
-      "name": "County Mayo",
-      "country_id": "105"
-    },
-    {
-      "id": "1092",
-      "name": "County Meath",
-      "country_id": "105"
-    },
-    {
-      "id": "1075",
-      "name": "County Monaghan",
-      "country_id": "105"
-    },
-    {
-      "id": "1078",
-      "name": "County Offaly",
-      "country_id": "105"
-    },
-    {
-      "id": "1081",
-      "name": "County Roscommon",
-      "country_id": "105"
-    },
-    {
-      "id": "1070",
-      "name": "County Sligo",
-      "country_id": "105"
-    },
-    {
-      "id": "1069",
-      "name": "County Tipperary",
-      "country_id": "105"
-    },
-    {
-      "id": "1089",
-      "name": "County Waterford",
-      "country_id": "105"
-    },
-    {
-      "id": "1097",
-      "name": "County Westmeath",
-      "country_id": "105"
-    },
-    {
-      "id": "1093",
-      "name": "County Wexford",
-      "country_id": "105"
-    },
-    {
-      "id": "1085",
-      "name": "County Wicklow",
+      "name": "Laois",
       "country_id": "105"
     },
     {
@@ -9126,13 +8846,83 @@
       "country_id": "105"
     },
     {
+      "id": "1094",
+      "name": "Limerick",
+      "country_id": "105"
+    },
+    {
+      "id": "1076",
+      "name": "Longford",
+      "country_id": "105"
+    },
+    {
+      "id": "1083",
+      "name": "Louth",
+      "country_id": "105"
+    },
+    {
+      "id": "1084",
+      "name": "Mayo",
+      "country_id": "105"
+    },
+    {
+      "id": "1092",
+      "name": "Meath",
+      "country_id": "105"
+    },
+    {
+      "id": "1075",
+      "name": "Monaghan",
+      "country_id": "105"
+    },
+    {
       "id": "1080",
       "name": "Munster",
       "country_id": "105"
     },
     {
+      "id": "1078",
+      "name": "Offaly",
+      "country_id": "105"
+    },
+    {
+      "id": "1081",
+      "name": "Roscommon",
+      "country_id": "105"
+    },
+    {
+      "id": "1070",
+      "name": "Sligo",
+      "country_id": "105"
+    },
+    {
+      "id": "1069",
+      "name": "Tipperary",
+      "country_id": "105"
+    },
+    {
       "id": "1086",
       "name": "Ulster",
+      "country_id": "105"
+    },
+    {
+      "id": "1089",
+      "name": "Waterford",
+      "country_id": "105"
+    },
+    {
+      "id": "1097",
+      "name": "Westmeath",
+      "country_id": "105"
+    },
+    {
+      "id": "1093",
+      "name": "Wexford",
+      "country_id": "105"
+    },
+    {
+      "id": "1085",
+      "name": "Wicklow",
       "country_id": "105"
     },
     {
@@ -13446,8 +13236,13 @@
       "country_id": "142"
     },
     {
+      "id": "3473",
+      "name": "Ciudad de México",
+      "country_id": "142"
+    },
+    {
       "id": "3471",
-      "name": "Coahuila",
+      "name": "Coahuila de Zaragoza",
       "country_id": "142"
     },
     {
@@ -13458,6 +13253,11 @@
     {
       "id": "3453",
       "name": "Durango",
+      "country_id": "142"
+    },
+    {
+      "id": "3450",
+      "name": "Estado de México",
       "country_id": "142"
     },
     {
@@ -13481,18 +13281,8 @@
       "country_id": "142"
     },
     {
-      "id": "3450",
-      "name": "México",
-      "country_id": "142"
-    },
-    {
-      "id": "3473",
-      "name": "Mexico City",
-      "country_id": "142"
-    },
-    {
       "id": "3474",
-      "name": "Michoacán",
+      "name": "Michoacán de Ocampo",
       "country_id": "142"
     },
     {
@@ -13562,7 +13352,7 @@
     },
     {
       "id": "3464",
-      "name": "Veracruz",
+      "name": "Veracruz de Ignacio de la Llave",
       "country_id": "142"
     },
     {
@@ -15032,7 +14822,7 @@
     },
     {
       "id": "4964",
-      "name": "Nueva Segovia\t",
+      "name": "Nueva Segovia",
       "country_id": "159"
     },
     {
@@ -20906,6 +20696,216 @@
       "country_id": "219"
     },
     {
+      "id": "3601",
+      "name": "Acklins",
+      "country_id": "17"
+    },
+    {
+      "id": "3628",
+      "name": "Acklins and Crooked Islands",
+      "country_id": "17"
+    },
+    {
+      "id": "3593",
+      "name": "Berry Islands",
+      "country_id": "17"
+    },
+    {
+      "id": "3629",
+      "name": "Bimini",
+      "country_id": "17"
+    },
+    {
+      "id": "3605",
+      "name": "Black Point",
+      "country_id": "17"
+    },
+    {
+      "id": "3611",
+      "name": "Cat Island",
+      "country_id": "17"
+    },
+    {
+      "id": "3603",
+      "name": "Central Abaco",
+      "country_id": "17"
+    },
+    {
+      "id": "3631",
+      "name": "Central Andros",
+      "country_id": "17"
+    },
+    {
+      "id": "3596",
+      "name": "Central Eleuthera",
+      "country_id": "17"
+    },
+    {
+      "id": "3621",
+      "name": "Crooked Island",
+      "country_id": "17"
+    },
+    {
+      "id": "3614",
+      "name": "East Grand Bahama",
+      "country_id": "17"
+    },
+    {
+      "id": "3612",
+      "name": "Exuma",
+      "country_id": "17"
+    },
+    {
+      "id": "3626",
+      "name": "Freeport",
+      "country_id": "17"
+    },
+    {
+      "id": "3619",
+      "name": "Fresh Creek",
+      "country_id": "17"
+    },
+    {
+      "id": "3597",
+      "name": "Governor's Harbour",
+      "country_id": "17"
+    },
+    {
+      "id": "3632",
+      "name": "Grand Cay",
+      "country_id": "17"
+    },
+    {
+      "id": "3595",
+      "name": "Green Turtle Cay",
+      "country_id": "17"
+    },
+    {
+      "id": "3613",
+      "name": "Harbour Island",
+      "country_id": "17"
+    },
+    {
+      "id": "3598",
+      "name": "High Rock",
+      "country_id": "17"
+    },
+    {
+      "id": "3624",
+      "name": "Hope Town",
+      "country_id": "17"
+    },
+    {
+      "id": "3609",
+      "name": "Inagua",
+      "country_id": "17"
+    },
+    {
+      "id": "3618",
+      "name": "Kemps Bay",
+      "country_id": "17"
+    },
+    {
+      "id": "3610",
+      "name": "Long Island",
+      "country_id": "17"
+    },
+    {
+      "id": "3625",
+      "name": "Mangrove Cay",
+      "country_id": "17"
+    },
+    {
+      "id": "3604",
+      "name": "Marsh Harbour",
+      "country_id": "17"
+    },
+    {
+      "id": "3633",
+      "name": "Mayaguana District",
+      "country_id": "17"
+    },
+    {
+      "id": "4881",
+      "name": "New Providence",
+      "country_id": "17"
+    },
+    {
+      "id": "3594",
+      "name": "Nichollstown and Berry Islands",
+      "country_id": "17"
+    },
+    {
+      "id": "3616",
+      "name": "North Abaco",
+      "country_id": "17"
+    },
+    {
+      "id": "3617",
+      "name": "North Andros",
+      "country_id": "17"
+    },
+    {
+      "id": "3602",
+      "name": "North Eleuthera",
+      "country_id": "17"
+    },
+    {
+      "id": "3615",
+      "name": "Ragged Island",
+      "country_id": "17"
+    },
+    {
+      "id": "3623",
+      "name": "Rock Sound",
+      "country_id": "17"
+    },
+    {
+      "id": "3600",
+      "name": "Rum Cay District",
+      "country_id": "17"
+    },
+    {
+      "id": "3620",
+      "name": "San Salvador and Rum Cay",
+      "country_id": "17"
+    },
+    {
+      "id": "3627",
+      "name": "San Salvador Island",
+      "country_id": "17"
+    },
+    {
+      "id": "3606",
+      "name": "Sandy Point",
+      "country_id": "17"
+    },
+    {
+      "id": "3608",
+      "name": "South Abaco",
+      "country_id": "17"
+    },
+    {
+      "id": "3622",
+      "name": "South Andros",
+      "country_id": "17"
+    },
+    {
+      "id": "3607",
+      "name": "South Eleuthera",
+      "country_id": "17"
+    },
+    {
+      "id": "3630",
+      "name": "Spanish Wells",
+      "country_id": "17"
+    },
+    {
+      "id": "3599",
+      "name": "West Grand Bahama",
+      "country_id": "17"
+    },
+    {
       "id": "2575",
       "name": "Centrale Region",
       "country_id": "220"
@@ -22257,122 +22257,127 @@
     },
     {
       "id": "4680",
-      "name": "Cherkasy Oblast",
+      "name": "Cherkaska oblast",
       "country_id": "230"
     },
     {
       "id": "4692",
-      "name": "Chernihiv Oblast",
+      "name": "Chernihivska oblast",
       "country_id": "230"
     },
     {
       "id": "4678",
-      "name": "Chernivtsi Oblast",
+      "name": "Chernivetska oblast",
       "country_id": "230"
     },
     {
       "id": "4675",
-      "name": "Dnipropetrovsk Oblast",
+      "name": "Dnipropetrovska oblast",
       "country_id": "230"
     },
     {
       "id": "4691",
-      "name": "Donetsk Oblast",
+      "name": "Donetska oblast",
       "country_id": "230"
     },
     {
       "id": "4682",
-      "name": "Ivano-Frankivsk Oblast",
+      "name": "Ivano-Frankivska oblast",
       "country_id": "230"
     },
     {
       "id": "4686",
-      "name": "Kharkiv Oblast",
+      "name": "Kharkivska oblast",
       "country_id": "230"
     },
     {
       "id": "4684",
-      "name": "Kherson Oblast",
+      "name": "Khersonska oblast",
       "country_id": "230"
     },
     {
       "id": "4681",
-      "name": "Khmelnytsky Oblast",
-      "country_id": "230"
-    },
-    {
-      "id": "4676",
-      "name": "Kiev",
+      "name": "Khmelnytska oblast",
       "country_id": "230"
     },
     {
       "id": "4677",
-      "name": "Kirovohrad Oblast",
+      "name": "Kirovohradska oblast",
+      "country_id": "230"
+    },
+    {
+      "id": "4676",
+      "name": "Kyiv",
       "country_id": "230"
     },
     {
       "id": "4671",
-      "name": "Kyiv Oblast",
+      "name": "Kyivska oblast",
       "country_id": "230"
     },
     {
       "id": "4673",
-      "name": "Luhansk Oblast",
+      "name": "Luhanska oblast",
       "country_id": "230"
     },
     {
       "id": "4672",
-      "name": "Lviv Oblast",
+      "name": "Lvivska oblast",
       "country_id": "230"
     },
     {
       "id": "4679",
-      "name": "Mykolaiv Oblast",
+      "name": "Mykolaivska oblast",
       "country_id": "230"
     },
     {
       "id": "4688",
-      "name": "Odessa Oblast",
+      "name": "Odeska oblast",
+      "country_id": "230"
+    },
+    {
+      "id": "5071",
+      "name": "Poltavska oblast",
       "country_id": "230"
     },
     {
       "id": "4683",
-      "name": "Rivne Oblast",
+      "name": "Rivnenska oblast",
       "country_id": "230"
     },
     {
       "id": "4685",
-      "name": "Sumy Oblast",
+      "name": "Sumska oblast",
       "country_id": "230"
     },
     {
       "id": "4674",
-      "name": "Ternopil Oblast",
+      "name": "Ternopilska oblast",
       "country_id": "230"
     },
     {
       "id": "4669",
-      "name": "Vinnytsia Oblast",
+      "name": "Vinnytska oblast",
       "country_id": "230"
     },
     {
       "id": "4690",
-      "name": "Volyn Oblast",
+      "name": "Volynska oblast",
       "country_id": "230"
     },
     {
       "id": "4670",
-      "name": "Zakarpattia Oblast",
+      "name": "Zakarpatska Oblast",
       "country_id": "230"
     },
     {
       "id": "4687",
-      "name": "Zaporizhzhya Oblast",
+      "name": "Zaporizka oblast",
       "country_id": "230"
     },
     {
       "id": "4668",
-      "name": "Zhytomyr Oblast",
+      "name": "Zhytomyrska oblast",
       "country_id": "230"
     },
     {

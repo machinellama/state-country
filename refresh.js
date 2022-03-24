@@ -7,7 +7,7 @@ const fs = require('fs');
  * Source: https://github.com/dr5hn/countries-states-cities-database
  */
 async function run() {
-  // Get newest states list from github and overwrite countries.json
+  // Get newest countries list from github and overwrite countries.json
   const countriesURL =
     'https://raw.githubusercontent.com/dr5hn/countries-states-cities-database/master/csv/countries.csv';
   const countriesPath = './countries.json';
