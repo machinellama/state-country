@@ -2291,6 +2291,21 @@
       "country_id": "27"
     },
     {
+      "id": "5086",
+      "name": "Bonaire",
+      "country_id": "155"
+    },
+    {
+      "id": "5087",
+      "name": "Saba",
+      "country_id": "155"
+    },
+    {
+      "id": "5088",
+      "name": "Sint Eustatius",
+      "country_id": "155"
+    },
+    {
       "id": "472",
       "name": "Bosnian Podrinje Canton",
       "country_id": "28"
@@ -4307,107 +4322,107 @@
     },
     {
       "id": "734",
-      "name": "Bjelovar-Bilogora County",
+      "name": "Bjelovar-Bilogora",
       "country_id": "55"
     },
     {
       "id": "737",
-      "name": "Brod-Posavina County",
+      "name": "Brod-Posavina",
       "country_id": "55"
     },
     {
       "id": "728",
-      "name": "Dubrovnik-Neretva County",
+      "name": "Dubrovnik-Neretva",
       "country_id": "55"
     },
     {
       "id": "743",
-      "name": "Istria County",
+      "name": "Istria",
       "country_id": "55"
     },
     {
       "id": "5069",
-      "name": "Karlovac County",
+      "name": "Karlovac",
       "country_id": "55"
     },
     {
       "id": "742",
-      "name": "Koprivnica-Križevci County",
+      "name": "Koprivnica-Križevci",
       "country_id": "55"
     },
     {
       "id": "729",
-      "name": "Krapina-Zagorje County",
+      "name": "Krapina-Zagorje",
       "country_id": "55"
     },
     {
       "id": "731",
-      "name": "Lika-Senj County",
+      "name": "Lika-Senj",
       "country_id": "55"
     },
     {
       "id": "726",
-      "name": "Međimurje County",
+      "name": "Međimurje",
       "country_id": "55"
     },
     {
       "id": "740",
-      "name": "Osijek-Baranja County",
+      "name": "Osijek-Baranja",
       "country_id": "55"
     },
     {
       "id": "724",
-      "name": "Požega-Slavonia County",
+      "name": "Požega-Slavonia",
       "country_id": "55"
     },
     {
       "id": "735",
-      "name": "Primorje-Gorski Kotar County",
+      "name": "Primorje-Gorski Kotar",
       "country_id": "55"
     },
     {
       "id": "730",
-      "name": "Šibenik-Knin County",
+      "name": "Šibenik-Knin",
       "country_id": "55"
     },
     {
       "id": "733",
-      "name": "Sisak-Moslavina County",
+      "name": "Sisak-Moslavina",
       "country_id": "55"
     },
     {
       "id": "725",
-      "name": "Split-Dalmatia County",
+      "name": "Split-Dalmatia",
       "country_id": "55"
     },
     {
       "id": "739",
-      "name": "Varaždin County",
+      "name": "Varaždin",
       "country_id": "55"
     },
     {
       "id": "732",
-      "name": "Virovitica-Podravina County",
+      "name": "Virovitica-Podravina",
       "country_id": "55"
     },
     {
       "id": "741",
-      "name": "Vukovar-Syrmia County",
+      "name": "Vukovar-Syrmia",
       "country_id": "55"
     },
     {
       "id": "727",
-      "name": "Zadar County",
+      "name": "Zadar",
+      "country_id": "55"
+    },
+    {
+      "id": "736",
+      "name": "Zagreb",
       "country_id": "55"
     },
     {
       "id": "738",
       "name": "Zagreb",
-      "country_id": "55"
-    },
-    {
-      "id": "736",
-      "name": "Zagreb County",
       "country_id": "55"
     },
     {
@@ -7937,17 +7952,17 @@
     },
     {
       "id": "1048",
-      "name": "Bács-Kiskun County",
+      "name": "Bács-Kiskun",
       "country_id": "99"
     },
     {
       "id": "1055",
-      "name": "Baranya County",
+      "name": "Baranya",
       "country_id": "99"
     },
     {
       "id": "1060",
-      "name": "Békés County",
+      "name": "Békés",
       "country_id": "99"
     },
     {
@@ -7957,7 +7972,7 @@
     },
     {
       "id": "1058",
-      "name": "Borsod-Abaúj-Zemplén County",
+      "name": "Borsod-Abaúj-Zemplén",
       "country_id": "99"
     },
     {
@@ -8033,6 +8048,11 @@
     {
       "id": "1056",
       "name": "Kecskemét",
+      "country_id": "99"
+    },
+    {
+      "id": "5085",
+      "name": "Komárom-Esztergom",
       "country_id": "99"
     },
     {
@@ -8961,6 +8981,21 @@
       "country_id": "107"
     },
     {
+      "id": "1727",
+      "name": "Agrigento",
+      "country_id": "107"
+    },
+    {
+      "id": "1783",
+      "name": "Alessandria",
+      "country_id": "107"
+    },
+    {
+      "id": "1672",
+      "name": "Ancona",
+      "country_id": "107"
+    },
+    {
       "id": "1716",
       "name": "Aosta Valley",
       "country_id": "107"
@@ -8971,13 +9006,73 @@
       "country_id": "107"
     },
     {
+      "id": "1681",
+      "name": "Ascoli Piceno",
+      "country_id": "107"
+    },
+    {
+      "id": "1780",
+      "name": "Asti",
+      "country_id": "107"
+    },
+    {
+      "id": "1692",
+      "name": "Avellino",
+      "country_id": "107"
+    },
+    {
+      "id": "1772",
+      "name": "Bari",
+      "country_id": "107"
+    },
+    {
+      "id": "1686",
+      "name": "Barletta-Andria-Trani",
+      "country_id": "107"
+    },
+    {
       "id": "1706",
       "name": "Basilicata",
       "country_id": "107"
     },
     {
+      "id": "1689",
+      "name": "Belluno",
+      "country_id": "107"
+    },
+    {
       "id": "1701",
-      "name": "Benevento Province",
+      "name": "Benevento",
+      "country_id": "107"
+    },
+    {
+      "id": "1704",
+      "name": "Bergamo",
+      "country_id": "107"
+    },
+    {
+      "id": "1778",
+      "name": "Biella",
+      "country_id": "107"
+    },
+    {
+      "id": "1684",
+      "name": "Bologna",
+      "country_id": "107"
+    },
+    {
+      "id": "1717",
+      "name": "Brescia",
+      "country_id": "107"
+    },
+    {
+      "id": "1714",
+      "name": "Brindisi",
+      "country_id": "107"
+    },
+    {
+      "id": "1682",
+      "name": "Cagliari",
       "country_id": "107"
     },
     {
@@ -8986,8 +9081,63 @@
       "country_id": "107"
     },
     {
+      "id": "1718",
+      "name": "Caltanissetta",
+      "country_id": "107"
+    },
+    {
       "id": "1669",
       "name": "Campania",
+      "country_id": "107"
+    },
+    {
+      "id": "1721",
+      "name": "Campobasso",
+      "country_id": "107"
+    },
+    {
+      "id": "1731",
+      "name": "Caserta",
+      "country_id": "107"
+    },
+    {
+      "id": "1766",
+      "name": "Catania",
+      "country_id": "107"
+    },
+    {
+      "id": "1728",
+      "name": "Catanzaro",
+      "country_id": "107"
+    },
+    {
+      "id": "1739",
+      "name": "Chieti",
+      "country_id": "107"
+    },
+    {
+      "id": "1740",
+      "name": "Como",
+      "country_id": "107"
+    },
+    {
+      "id": "1742",
+      "name": "Cosenza",
+      "country_id": "107"
+    },
+    {
+      "id": "1751",
+      "name": "Cremona",
+      "country_id": "107"
+    },
+    {
+      "id": "1754",
+      "name": "Crotone",
+      "country_id": "107"
+    },
+    {
+      "id": "1775",
+      "name": "Cuneo",
       "country_id": "107"
     },
     {
@@ -8996,8 +9146,83 @@
       "country_id": "107"
     },
     {
+      "id": "1723",
+      "name": "Enna",
+      "country_id": "107"
+    },
+    {
+      "id": "1744",
+      "name": "Fermo",
+      "country_id": "107"
+    },
+    {
+      "id": "1746",
+      "name": "Ferrara",
+      "country_id": "107"
+    },
+    {
+      "id": "1680",
+      "name": "Florence",
+      "country_id": "107"
+    },
+    {
+      "id": "1771",
+      "name": "Foggia",
+      "country_id": "107"
+    },
+    {
+      "id": "1779",
+      "name": "Forlì-Cesena",
+      "country_id": "107"
+    },
+    {
       "id": "1756",
       "name": "Friuli–Venezia Giulia",
+      "country_id": "107"
+    },
+    {
+      "id": "1776",
+      "name": "Frosinone",
+      "country_id": "107"
+    },
+    {
+      "id": "1699",
+      "name": "Genoa",
+      "country_id": "107"
+    },
+    {
+      "id": "1777",
+      "name": "Gorizia",
+      "country_id": "107"
+    },
+    {
+      "id": "1787",
+      "name": "Grosseto",
+      "country_id": "107"
+    },
+    {
+      "id": "1788",
+      "name": "Imperia",
+      "country_id": "107"
+    },
+    {
+      "id": "1789",
+      "name": "Isernia",
+      "country_id": "107"
+    },
+    {
+      "id": "1781",
+      "name": "L'Aquila",
+      "country_id": "107"
+    },
+    {
+      "id": "1791",
+      "name": "La Spezia",
+      "country_id": "107"
+    },
+    {
+      "id": "1674",
+      "name": "Latina",
       "country_id": "107"
     },
     {
@@ -9006,33 +9231,13 @@
       "country_id": "107"
     },
     {
-      "id": "1727",
-      "name": "Libero consorzio comunale di Agrigento",
+      "id": "1675",
+      "name": "Lecce",
       "country_id": "107"
     },
     {
-      "id": "1718",
-      "name": "Libero consorzio comunale di Caltanissetta",
-      "country_id": "107"
-    },
-    {
-      "id": "1723",
-      "name": "Libero consorzio comunale di Enna",
-      "country_id": "107"
-    },
-    {
-      "id": "1729",
-      "name": "Libero consorzio comunale di Ragusa",
-      "country_id": "107"
-    },
-    {
-      "id": "1667",
-      "name": "Libero consorzio comunale di Siracusa",
-      "country_id": "107"
-    },
-    {
-      "id": "1733",
-      "name": "Libero consorzio comunale di Trapani",
+      "id": "1677",
+      "name": "Lecco",
       "country_id": "107"
     },
     {
@@ -9041,8 +9246,33 @@
       "country_id": "107"
     },
     {
+      "id": "1745",
+      "name": "Livorno",
+      "country_id": "107"
+    },
+    {
+      "id": "1747",
+      "name": "Lodi",
+      "country_id": "107"
+    },
+    {
       "id": "1705",
       "name": "Lombardy",
+      "country_id": "107"
+    },
+    {
+      "id": "1749",
+      "name": "Lucca",
+      "country_id": "107"
+    },
+    {
+      "id": "1750",
+      "name": "Macerata",
+      "country_id": "107"
+    },
+    {
+      "id": "1758",
+      "name": "Mantua",
       "country_id": "107"
     },
     {
@@ -9051,73 +9281,33 @@
       "country_id": "107"
     },
     {
-      "id": "1772",
-      "name": "Metropolitan City of Bari",
+      "id": "1759",
+      "name": "Massa and Carrara",
       "country_id": "107"
     },
     {
-      "id": "1684",
-      "name": "Metropolitan City of Bologna",
+      "id": "1760",
+      "name": "Matera",
       "country_id": "107"
     },
     {
-      "id": "1682",
-      "name": "Metropolitan City of Cagliari",
-      "country_id": "107"
-    },
-    {
-      "id": "1766",
-      "name": "Metropolitan City of Catania",
-      "country_id": "107"
-    },
-    {
-      "id": "1680",
-      "name": "Metropolitan City of Florence",
-      "country_id": "107"
-    },
-    {
-      "id": "1699",
-      "name": "Metropolitan City of Genoa",
+      "id": "1761",
+      "name": "Medio Campidano",
       "country_id": "107"
     },
     {
       "id": "1770",
-      "name": "Metropolitan City of Messina",
+      "name": "Messina",
       "country_id": "107"
     },
     {
       "id": "1698",
-      "name": "Metropolitan City of Milan",
+      "name": "Milan",
       "country_id": "107"
     },
     {
-      "id": "1724",
-      "name": "Metropolitan City of Naples",
-      "country_id": "107"
-    },
-    {
-      "id": "1668",
-      "name": "Metropolitan City of Palermo",
-      "country_id": "107"
-    },
-    {
-      "id": "1671",
-      "name": "Metropolitan City of Reggio Calabria",
-      "country_id": "107"
-    },
-    {
-      "id": "1711",
-      "name": "Metropolitan City of Rome",
-      "country_id": "107"
-    },
-    {
-      "id": "1710",
-      "name": "Metropolitan City of Turin",
-      "country_id": "107"
-    },
-    {
-      "id": "1673",
-      "name": "Metropolitan City of Venice",
+      "id": "1757",
+      "name": "Modena",
       "country_id": "107"
     },
     {
@@ -9126,8 +9316,68 @@
       "country_id": "107"
     },
     {
+      "id": "1769",
+      "name": "Monza and Brianza",
+      "country_id": "107"
+    },
+    {
+      "id": "1724",
+      "name": "Naples",
+      "country_id": "107"
+    },
+    {
+      "id": "1774",
+      "name": "Novara",
+      "country_id": "107"
+    },
+    {
+      "id": "1790",
+      "name": "Nuoro",
+      "country_id": "107"
+    },
+    {
+      "id": "1786",
+      "name": "Oristano",
+      "country_id": "107"
+    },
+    {
+      "id": "1665",
+      "name": "Padua",
+      "country_id": "107"
+    },
+    {
+      "id": "1668",
+      "name": "Palermo",
+      "country_id": "107"
+    },
+    {
+      "id": "1666",
+      "name": "Parma",
+      "country_id": "107"
+    },
+    {
+      "id": "1676",
+      "name": "Pavia",
+      "country_id": "107"
+    },
+    {
+      "id": "1691",
+      "name": "Perugia",
+      "country_id": "107"
+    },
+    {
       "id": "1693",
-      "name": "Pesaro and Urbino Province",
+      "name": "Pesaro and Urbino",
+      "country_id": "107"
+    },
+    {
+      "id": "1694",
+      "name": "Pescara",
+      "country_id": "107"
+    },
+    {
+      "id": "1696",
+      "name": "Piacenza",
       "country_id": "107"
     },
     {
@@ -9136,423 +9386,73 @@
       "country_id": "107"
     },
     {
-      "id": "1783",
-      "name": "Province of Alessandria",
-      "country_id": "107"
-    },
-    {
-      "id": "1672",
-      "name": "Province of Ancona",
-      "country_id": "107"
-    },
-    {
-      "id": "1681",
-      "name": "Province of Ascoli Piceno",
-      "country_id": "107"
-    },
-    {
-      "id": "1780",
-      "name": "Province of Asti",
-      "country_id": "107"
-    },
-    {
-      "id": "1692",
-      "name": "Province of Avellino",
-      "country_id": "107"
-    },
-    {
-      "id": "1686",
-      "name": "Province of Barletta-Andria-Trani",
-      "country_id": "107"
-    },
-    {
-      "id": "1689",
-      "name": "Province of Belluno",
-      "country_id": "107"
-    },
-    {
-      "id": "1704",
-      "name": "Province of Bergamo",
-      "country_id": "107"
-    },
-    {
-      "id": "1778",
-      "name": "Province of Biella",
-      "country_id": "107"
-    },
-    {
-      "id": "1717",
-      "name": "Province of Brescia",
-      "country_id": "107"
-    },
-    {
-      "id": "1714",
-      "name": "Province of Brindisi",
-      "country_id": "107"
-    },
-    {
-      "id": "1721",
-      "name": "Province of Campobasso",
-      "country_id": "107"
-    },
-    {
-      "id": "1730",
-      "name": "Province of Carbonia-Iglesias",
-      "country_id": "107"
-    },
-    {
-      "id": "1731",
-      "name": "Province of Caserta",
-      "country_id": "107"
-    },
-    {
-      "id": "1728",
-      "name": "Province of Catanzaro",
-      "country_id": "107"
-    },
-    {
-      "id": "1739",
-      "name": "Province of Chieti",
-      "country_id": "107"
-    },
-    {
-      "id": "1740",
-      "name": "Province of Como",
-      "country_id": "107"
-    },
-    {
-      "id": "1742",
-      "name": "Province of Cosenza",
-      "country_id": "107"
-    },
-    {
-      "id": "1751",
-      "name": "Province of Cremona",
-      "country_id": "107"
-    },
-    {
-      "id": "1754",
-      "name": "Province of Crotone",
-      "country_id": "107"
-    },
-    {
-      "id": "1775",
-      "name": "Province of Cuneo",
-      "country_id": "107"
-    },
-    {
-      "id": "1744",
-      "name": "Province of Fermo",
-      "country_id": "107"
-    },
-    {
-      "id": "1746",
-      "name": "Province of Ferrara",
-      "country_id": "107"
-    },
-    {
-      "id": "1771",
-      "name": "Province of Foggia",
-      "country_id": "107"
-    },
-    {
-      "id": "1779",
-      "name": "Province of Forlì-Cesena",
-      "country_id": "107"
-    },
-    {
-      "id": "1776",
-      "name": "Province of Frosinone",
-      "country_id": "107"
-    },
-    {
-      "id": "1777",
-      "name": "Province of Gorizia",
-      "country_id": "107"
-    },
-    {
-      "id": "1787",
-      "name": "Province of Grosseto",
-      "country_id": "107"
-    },
-    {
-      "id": "1788",
-      "name": "Province of Imperia",
-      "country_id": "107"
-    },
-    {
-      "id": "1789",
-      "name": "Province of Isernia",
-      "country_id": "107"
-    },
-    {
-      "id": "1781",
-      "name": "Province of L'Aquila",
-      "country_id": "107"
-    },
-    {
-      "id": "1791",
-      "name": "Province of La Spezia",
-      "country_id": "107"
-    },
-    {
-      "id": "1674",
-      "name": "Province of Latina",
-      "country_id": "107"
-    },
-    {
-      "id": "1675",
-      "name": "Province of Lecce",
-      "country_id": "107"
-    },
-    {
-      "id": "1677",
-      "name": "Province of Lecco",
-      "country_id": "107"
-    },
-    {
-      "id": "1745",
-      "name": "Province of Livorno",
-      "country_id": "107"
-    },
-    {
-      "id": "1747",
-      "name": "Province of Lodi",
-      "country_id": "107"
-    },
-    {
-      "id": "1749",
-      "name": "Province of Lucca",
-      "country_id": "107"
-    },
-    {
-      "id": "1750",
-      "name": "Province of Macerata",
-      "country_id": "107"
-    },
-    {
-      "id": "1758",
-      "name": "Province of Mantua",
-      "country_id": "107"
-    },
-    {
-      "id": "1759",
-      "name": "Province of Massa and Carrara",
-      "country_id": "107"
-    },
-    {
-      "id": "1760",
-      "name": "Province of Matera",
-      "country_id": "107"
-    },
-    {
-      "id": "1761",
-      "name": "Province of Medio Campidano",
-      "country_id": "107"
-    },
-    {
-      "id": "1757",
-      "name": "Province of Modena",
-      "country_id": "107"
-    },
-    {
-      "id": "1769",
-      "name": "Province of Monza and Brianza",
-      "country_id": "107"
-    },
-    {
-      "id": "1774",
-      "name": "Province of Novara",
-      "country_id": "107"
-    },
-    {
-      "id": "1790",
-      "name": "Province of Nuoro",
-      "country_id": "107"
-    },
-    {
-      "id": "1782",
-      "name": "Province of Ogliastra",
-      "country_id": "107"
-    },
-    {
-      "id": "1784",
-      "name": "Province of Olbia-Tempio",
-      "country_id": "107"
-    },
-    {
-      "id": "1786",
-      "name": "Province of Oristano",
-      "country_id": "107"
-    },
-    {
-      "id": "1665",
-      "name": "Province of Padua",
-      "country_id": "107"
-    },
-    {
-      "id": "1666",
-      "name": "Province of Parma",
-      "country_id": "107"
-    },
-    {
-      "id": "1676",
-      "name": "Province of Pavia",
-      "country_id": "107"
-    },
-    {
-      "id": "1691",
-      "name": "Province of Perugia",
-      "country_id": "107"
-    },
-    {
-      "id": "1694",
-      "name": "Province of Pescara",
-      "country_id": "107"
-    },
-    {
-      "id": "1696",
-      "name": "Province of Piacenza",
-      "country_id": "107"
-    },
-    {
       "id": "1685",
-      "name": "Province of Pisa",
+      "name": "Pisa",
       "country_id": "107"
     },
     {
       "id": "1687",
-      "name": "Province of Pistoia",
+      "name": "Pistoia",
       "country_id": "107"
     },
     {
       "id": "1690",
-      "name": "Province of Pordenone",
+      "name": "Pordenone",
       "country_id": "107"
     },
     {
       "id": "1697",
-      "name": "Province of Potenza",
+      "name": "Potenza",
       "country_id": "107"
     },
     {
       "id": "1700",
-      "name": "Province of Prato",
+      "name": "Prato",
+      "country_id": "107"
+    },
+    {
+      "id": "1729",
+      "name": "Ragusa",
       "country_id": "107"
     },
     {
       "id": "1707",
-      "name": "Province of Ravenna",
+      "name": "Ravenna",
+      "country_id": "107"
+    },
+    {
+      "id": "1671",
+      "name": "Reggio Calabria",
       "country_id": "107"
     },
     {
       "id": "1708",
-      "name": "Province of Reggio Emilia",
+      "name": "Reggio Emilia",
       "country_id": "107"
     },
     {
       "id": "1712",
-      "name": "Province of Rieti",
+      "name": "Rieti",
       "country_id": "107"
     },
     {
       "id": "1713",
-      "name": "Province of Rimini",
+      "name": "Rimini",
+      "country_id": "107"
+    },
+    {
+      "id": "1711",
+      "name": "Rome",
       "country_id": "107"
     },
     {
       "id": "1719",
-      "name": "Province of Rovigo",
+      "name": "Rovigo",
       "country_id": "107"
     },
     {
       "id": "1720",
-      "name": "Province of Salerno",
-      "country_id": "107"
-    },
-    {
-      "id": "1722",
-      "name": "Province of Sassari",
-      "country_id": "107"
-    },
-    {
-      "id": "1732",
-      "name": "Province of Savona",
-      "country_id": "107"
-    },
-    {
-      "id": "1734",
-      "name": "Province of Siena",
-      "country_id": "107"
-    },
-    {
-      "id": "1741",
-      "name": "Province of Sondrio",
-      "country_id": "107"
-    },
-    {
-      "id": "1743",
-      "name": "Province of Taranto",
-      "country_id": "107"
-    },
-    {
-      "id": "1752",
-      "name": "Province of Teramo",
-      "country_id": "107"
-    },
-    {
-      "id": "1755",
-      "name": "Province of Terni",
-      "country_id": "107"
-    },
-    {
-      "id": "1762",
-      "name": "Province of Treviso",
-      "country_id": "107"
-    },
-    {
-      "id": "1763",
-      "name": "Province of Trieste",
-      "country_id": "107"
-    },
-    {
-      "id": "1764",
-      "name": "Province of Udine",
-      "country_id": "107"
-    },
-    {
-      "id": "1765",
-      "name": "Province of Varese",
-      "country_id": "107"
-    },
-    {
-      "id": "1726",
-      "name": "Province of Verbano-Cusio-Ossola",
-      "country_id": "107"
-    },
-    {
-      "id": "1785",
-      "name": "Province of Vercelli",
-      "country_id": "107"
-    },
-    {
-      "id": "1736",
-      "name": "Province of Verona",
-      "country_id": "107"
-    },
-    {
-      "id": "1737",
-      "name": "Province of Vibo Valentia",
-      "country_id": "107"
-    },
-    {
-      "id": "1738",
-      "name": "Province of Vicenza",
-      "country_id": "107"
-    },
-    {
-      "id": "1735",
-      "name": "Province of Viterbo",
+      "name": "Salerno",
       "country_id": "107"
     },
     {
@@ -9561,13 +9461,63 @@
       "country_id": "107"
     },
     {
+      "id": "1722",
+      "name": "Sassari",
+      "country_id": "107"
+    },
+    {
+      "id": "1732",
+      "name": "Savona",
+      "country_id": "107"
+    },
+    {
       "id": "1709",
       "name": "Sicily",
       "country_id": "107"
     },
     {
+      "id": "1734",
+      "name": "Siena",
+      "country_id": "107"
+    },
+    {
+      "id": "1667",
+      "name": "Siracusa",
+      "country_id": "107"
+    },
+    {
+      "id": "1741",
+      "name": "Sondrio",
+      "country_id": "107"
+    },
+    {
+      "id": "1730",
+      "name": "South Sardinia",
+      "country_id": "107"
+    },
+    {
       "id": "1767",
       "name": "South Tyrol",
+      "country_id": "107"
+    },
+    {
+      "id": "1743",
+      "name": "Taranto",
+      "country_id": "107"
+    },
+    {
+      "id": "1752",
+      "name": "Teramo",
+      "country_id": "107"
+    },
+    {
+      "id": "1755",
+      "name": "Terni",
+      "country_id": "107"
+    },
+    {
+      "id": "1733",
+      "name": "Trapani",
       "country_id": "107"
     },
     {
@@ -9581,8 +9531,28 @@
       "country_id": "107"
     },
     {
+      "id": "1762",
+      "name": "Treviso",
+      "country_id": "107"
+    },
+    {
+      "id": "1763",
+      "name": "Trieste",
+      "country_id": "107"
+    },
+    {
+      "id": "1710",
+      "name": "Turin",
+      "country_id": "107"
+    },
+    {
       "id": "1664",
       "name": "Tuscany",
+      "country_id": "107"
+    },
+    {
+      "id": "1764",
+      "name": "Udine",
       "country_id": "107"
     },
     {
@@ -9591,8 +9561,48 @@
       "country_id": "107"
     },
     {
+      "id": "1765",
+      "name": "Varese",
+      "country_id": "107"
+    },
+    {
       "id": "1753",
       "name": "Veneto",
+      "country_id": "107"
+    },
+    {
+      "id": "1673",
+      "name": "Venice",
+      "country_id": "107"
+    },
+    {
+      "id": "1726",
+      "name": "Verbano-Cusio-Ossola",
+      "country_id": "107"
+    },
+    {
+      "id": "1785",
+      "name": "Vercelli",
+      "country_id": "107"
+    },
+    {
+      "id": "1736",
+      "name": "Verona",
+      "country_id": "107"
+    },
+    {
+      "id": "1737",
+      "name": "Vibo Valentia",
+      "country_id": "107"
+    },
+    {
+      "id": "1738",
+      "name": "Vicenza",
+      "country_id": "107"
+    },
+    {
+      "id": "1735",
+      "name": "Viterbo",
       "country_id": "107"
     },
     {
@@ -13047,17 +13057,17 @@
     },
     {
       "id": "3344",
-      "name": "Adrar Region",
+      "name": "Adrar",
       "country_id": "139"
     },
     {
       "id": "3349",
-      "name": "Assaba Region",
+      "name": "Assaba",
       "country_id": "139"
     },
     {
       "id": "3339",
-      "name": "Brakna Region",
+      "name": "Brakna",
       "country_id": "139"
     },
     {
@@ -13067,57 +13077,57 @@
     },
     {
       "id": "3341",
-      "name": "Gorgol Region",
+      "name": "Gorgol",
       "country_id": "139"
     },
     {
       "id": "3350",
-      "name": "Guidimaka Region",
+      "name": "Guidimaka",
       "country_id": "139"
     },
     {
       "id": "3338",
-      "name": "Hodh Ech Chargui Region",
+      "name": "Hodh Ech Chargui",
       "country_id": "139"
     },
     {
       "id": "3351",
-      "name": "Hodh El Gharbi Region",
+      "name": "Hodh El Gharbi",
       "country_id": "139"
     },
     {
       "id": "3342",
-      "name": "Inchiri Region",
+      "name": "Inchiri",
       "country_id": "139"
     },
     {
       "id": "3343",
-      "name": "Nouakchott-Nord Region",
+      "name": "Nouakchott-Nord",
       "country_id": "139"
     },
     {
       "id": "3352",
-      "name": "Nouakchott-Ouest Region",
+      "name": "Nouakchott-Ouest",
       "country_id": "139"
     },
     {
       "id": "3347",
-      "name": "Nouakchott-Sud Region",
+      "name": "Nouakchott-Sud",
       "country_id": "139"
     },
     {
       "id": "3345",
-      "name": "Tagant Region",
+      "name": "Tagant",
       "country_id": "139"
     },
     {
       "id": "3340",
-      "name": "Tiris Zemmour Region",
+      "name": "Tiris Zemmour",
       "country_id": "139"
     },
     {
       "id": "3348",
-      "name": "Trarza Region",
+      "name": "Trarza",
       "country_id": "139"
     },
     {
@@ -16449,6 +16459,56 @@
       "id": "2237",
       "name": "Viseu",
       "country_id": "177"
+    },
+    {
+      "id": "5081",
+      "name": "Arecibo",
+      "country_id": "178"
+    },
+    {
+      "id": "5076",
+      "name": "Bayamon",
+      "country_id": "178"
+    },
+    {
+      "id": "5079",
+      "name": "Caguas",
+      "country_id": "178"
+    },
+    {
+      "id": "5077",
+      "name": "Carolina",
+      "country_id": "178"
+    },
+    {
+      "id": "5080",
+      "name": "Guaynabo",
+      "country_id": "178"
+    },
+    {
+      "id": "5083",
+      "name": "Mayagüez",
+      "country_id": "178"
+    },
+    {
+      "id": "5078",
+      "name": "Ponce",
+      "country_id": "178"
+    },
+    {
+      "id": "5075",
+      "name": "San Juan",
+      "country_id": "178"
+    },
+    {
+      "id": "5082",
+      "name": "Toa Baja",
+      "country_id": "178"
+    },
+    {
+      "id": "5084",
+      "name": "Trujillo Alto",
+      "country_id": "178"
     },
     {
       "id": "3182",
@@ -24614,6 +24674,21 @@
       "id": "3784",
       "name": "Yên Bái",
       "country_id": "240"
+    },
+    {
+      "id": "5074",
+      "name": "Saint Croix",
+      "country_id": "242"
+    },
+    {
+      "id": "5073",
+      "name": "Saint John",
+      "country_id": "242"
+    },
+    {
+      "id": "5072",
+      "name": "Saint Thomas",
+      "country_id": "242"
     },
     {
       "id": "1242",
