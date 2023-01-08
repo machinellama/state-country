@@ -1487,27 +1487,27 @@
     },
     {
       "id": "1992",
-      "name": "Capital Governorate",
+      "name": "Capital",
       "country_id": "18"
     },
     {
       "id": "1996",
-      "name": "Central Governorate",
+      "name": "Central",
       "country_id": "18"
     },
     {
       "id": "1995",
-      "name": "Muharraq Governorate",
+      "name": "Muharraq",
       "country_id": "18"
     },
     {
       "id": "1994",
-      "name": "Northern Governorate",
+      "name": "Northern",
       "country_id": "18"
     },
     {
       "id": "1993",
-      "name": "Southern Governorate",
+      "name": "Southern",
       "country_id": "18"
     },
     {
@@ -3532,7 +3532,7 @@
     },
     {
       "id": "3590",
-      "name": "Batha Region",
+      "name": "Batha",
       "country_id": "43"
     },
     {
@@ -3541,8 +3541,8 @@
       "country_id": "43"
     },
     {
-      "id": "3578",
-      "name": "Ennedi Region",
+      "id": "5114",
+      "name": "Chari-Baguirmi",
       "country_id": "43"
     },
     {
@@ -3557,7 +3557,7 @@
     },
     {
       "id": "3576",
-      "name": "Guéra Region",
+      "name": "Guéra",
       "country_id": "43"
     },
     {
@@ -3567,42 +3567,42 @@
     },
     {
       "id": "3588",
-      "name": "Kanem Region",
+      "name": "Kanem",
       "country_id": "43"
     },
     {
       "id": "3577",
-      "name": "Lac Region",
+      "name": "Lac",
       "country_id": "43"
     },
     {
       "id": "3585",
-      "name": "Logone Occidental Region",
+      "name": "Logone Occidental",
       "country_id": "43"
     },
     {
       "id": "3591",
-      "name": "Logone Oriental Region",
+      "name": "Logone Oriental",
       "country_id": "43"
     },
     {
       "id": "3589",
-      "name": "Mandoul Region",
+      "name": "Mandoul",
       "country_id": "43"
     },
     {
       "id": "3580",
-      "name": "Mayo-Kebbi Est Region",
+      "name": "Mayo-Kebbi Est",
       "country_id": "43"
     },
     {
       "id": "3571",
-      "name": "Mayo-Kebbi Ouest Region",
+      "name": "Mayo-Kebbi Ouest",
       "country_id": "43"
     },
     {
       "id": "3570",
-      "name": "Moyen-Chari Region",
+      "name": "Moyen-Chari",
       "country_id": "43"
     },
     {
@@ -3612,32 +3612,32 @@
     },
     {
       "id": "3582",
-      "name": "Ouaddaï Region",
+      "name": "Ouaddaï",
       "country_id": "43"
     },
     {
       "id": "3592",
-      "name": "Salamat Region",
+      "name": "Salamat",
       "country_id": "43"
     },
     {
       "id": "3572",
-      "name": "Sila Region",
+      "name": "Sila",
       "country_id": "43"
     },
     {
       "id": "3579",
-      "name": "Tandjilé Region",
+      "name": "Tandjilé",
       "country_id": "43"
     },
     {
       "id": "3587",
-      "name": "Tibesti Region",
+      "name": "Tibesti",
       "country_id": "43"
     },
     {
       "id": "3581",
-      "name": "Wadi Fira Region",
+      "name": "Wadi Fira",
       "country_id": "43"
     },
     {
@@ -6076,11 +6076,6 @@
       "country_id": "74"
     },
     {
-      "id": "1492",
-      "name": "Eastern Finland Province",
-      "country_id": "74"
-    },
-    {
       "id": "1507",
       "name": "Finland Proper",
       "country_id": "74"
@@ -6118,11 +6113,6 @@
     {
       "id": "1508",
       "name": "Ostrobothnia",
-      "country_id": "74"
-    },
-    {
-      "id": "1499",
-      "name": "Oulu Province",
       "country_id": "74"
     },
     {
@@ -8712,92 +8702,92 @@
     },
     {
       "id": "3964",
-      "name": "Al Anbar Governorate",
+      "name": "Al Anbar",
       "country_id": "104"
     },
     {
       "id": "3958",
-      "name": "Al Muthanna Governorate",
+      "name": "Al Muthanna",
       "country_id": "104"
     },
     {
       "id": "3956",
-      "name": "Al-Qādisiyyah Governorate",
+      "name": "Al-Qādisiyyah",
       "country_id": "104"
     },
     {
       "id": "3955",
-      "name": "Babylon Governorate",
+      "name": "Babylon",
       "country_id": "104"
     },
     {
       "id": "3959",
-      "name": "Baghdad Governorate",
+      "name": "Baghdad",
       "country_id": "104"
     },
     {
       "id": "3960",
-      "name": "Basra Governorate",
+      "name": "Basra",
       "country_id": "104"
     },
     {
       "id": "3954",
-      "name": "Dhi Qar Governorate",
+      "name": "Dhi Qar",
       "country_id": "104"
     },
     {
       "id": "3965",
-      "name": "Diyala Governorate",
+      "name": "Diyala",
       "country_id": "104"
     },
     {
       "id": "3967",
-      "name": "Dohuk Governorate",
+      "name": "Dohuk",
       "country_id": "104"
     },
     {
       "id": "3968",
-      "name": "Erbil Governorate",
+      "name": "Erbil",
       "country_id": "104"
     },
     {
       "id": "3957",
-      "name": "Karbala Governorate",
+      "name": "Karbala",
       "country_id": "104"
     },
     {
       "id": "3971",
-      "name": "Kirkuk Governorate",
+      "name": "Kirkuk",
       "country_id": "104"
     },
     {
       "id": "3966",
-      "name": "Maysan Governorate",
+      "name": "Maysan",
       "country_id": "104"
     },
     {
       "id": "3962",
-      "name": "Najaf Governorate",
+      "name": "Najaf",
       "country_id": "104"
     },
     {
       "id": "3963",
-      "name": "Nineveh Governorate",
+      "name": "Nineveh",
       "country_id": "104"
     },
     {
       "id": "3961",
-      "name": "Saladin Governorate",
+      "name": "Saladin",
       "country_id": "104"
     },
     {
       "id": "3969",
-      "name": "Sulaymaniyah Governorate",
+      "name": "Sulaymaniyah",
       "country_id": "104"
     },
     {
       "id": "3970",
-      "name": "Wasit Governorate",
+      "name": "Wasit",
       "country_id": "104"
     },
     {
@@ -9021,11 +9011,6 @@
       "country_id": "107"
     },
     {
-      "id": "1772",
-      "name": "Bari",
-      "country_id": "107"
-    },
-    {
       "id": "1686",
       "name": "Barletta-Andria-Trani",
       "country_id": "107"
@@ -9056,11 +9041,6 @@
       "country_id": "107"
     },
     {
-      "id": "1684",
-      "name": "Bologna",
-      "country_id": "107"
-    },
-    {
       "id": "1717",
       "name": "Brescia",
       "country_id": "107"
@@ -9068,11 +9048,6 @@
     {
       "id": "1714",
       "name": "Brindisi",
-      "country_id": "107"
-    },
-    {
-      "id": "1682",
-      "name": "Cagliari",
       "country_id": "107"
     },
     {
@@ -9098,11 +9073,6 @@
     {
       "id": "1731",
       "name": "Caserta",
-      "country_id": "107"
-    },
-    {
-      "id": "1766",
-      "name": "Catania",
       "country_id": "107"
     },
     {
@@ -9161,11 +9131,6 @@
       "country_id": "107"
     },
     {
-      "id": "1680",
-      "name": "Florence",
-      "country_id": "107"
-    },
-    {
       "id": "1771",
       "name": "Foggia",
       "country_id": "107"
@@ -9183,11 +9148,6 @@
     {
       "id": "1776",
       "name": "Frosinone",
-      "country_id": "107"
-    },
-    {
-      "id": "1699",
-      "name": "Genoa",
       "country_id": "107"
     },
     {
@@ -9296,16 +9256,6 @@
       "country_id": "107"
     },
     {
-      "id": "1770",
-      "name": "Messina",
-      "country_id": "107"
-    },
-    {
-      "id": "1698",
-      "name": "Milan",
-      "country_id": "107"
-    },
-    {
       "id": "1757",
       "name": "Modena",
       "country_id": "107"
@@ -9318,11 +9268,6 @@
     {
       "id": "1769",
       "name": "Monza and Brianza",
-      "country_id": "107"
-    },
-    {
-      "id": "1724",
-      "name": "Naples",
       "country_id": "107"
     },
     {
@@ -9421,11 +9366,6 @@
       "country_id": "107"
     },
     {
-      "id": "1671",
-      "name": "Reggio Calabria",
-      "country_id": "107"
-    },
-    {
       "id": "1708",
       "name": "Reggio Emilia",
       "country_id": "107"
@@ -9438,11 +9378,6 @@
     {
       "id": "1713",
       "name": "Rimini",
-      "country_id": "107"
-    },
-    {
-      "id": "1711",
-      "name": "Rome",
       "country_id": "107"
     },
     {
@@ -9496,11 +9431,6 @@
       "country_id": "107"
     },
     {
-      "id": "1767",
-      "name": "South Tyrol",
-      "country_id": "107"
-    },
-    {
       "id": "1743",
       "name": "Taranto",
       "country_id": "107"
@@ -9521,11 +9451,6 @@
       "country_id": "107"
     },
     {
-      "id": "1748",
-      "name": "Trentino",
-      "country_id": "107"
-    },
-    {
       "id": "1725",
       "name": "Trentino-South Tyrol",
       "country_id": "107"
@@ -9538,11 +9463,6 @@
     {
       "id": "1763",
       "name": "Trieste",
-      "country_id": "107"
-    },
-    {
-      "id": "1710",
-      "name": "Turin",
       "country_id": "107"
     },
     {
@@ -9568,11 +9488,6 @@
     {
       "id": "1753",
       "name": "Veneto",
-      "country_id": "107"
-    },
-    {
-      "id": "1673",
-      "name": "Venice",
       "country_id": "107"
     },
     {
@@ -9912,62 +9827,62 @@
     },
     {
       "id": "963",
-      "name": "Ajloun Governorate",
+      "name": "Ajloun",
       "country_id": "111"
     },
     {
       "id": "965",
-      "name": "Amman Governorate",
+      "name": "Amman",
       "country_id": "111"
     },
     {
       "id": "959",
-      "name": "Aqaba Governorate",
+      "name": "Aqaba",
       "country_id": "111"
     },
     {
       "id": "961",
-      "name": "Balqa Governorate",
+      "name": "Balqa",
       "country_id": "111"
     },
     {
       "id": "960",
-      "name": "Irbid Governorate",
+      "name": "Irbid",
       "country_id": "111"
     },
     {
       "id": "966",
-      "name": "Jerash Governorate",
+      "name": "Jerash",
       "country_id": "111"
     },
     {
       "id": "956",
-      "name": "Karak Governorate",
+      "name": "Karak",
       "country_id": "111"
     },
     {
       "id": "964",
-      "name": "Ma'an Governorate",
+      "name": "Ma'an",
       "country_id": "111"
     },
     {
       "id": "958",
-      "name": "Madaba Governorate",
+      "name": "Madaba",
       "country_id": "111"
     },
     {
       "id": "962",
-      "name": "Mafraq Governorate",
+      "name": "Mafraq",
       "country_id": "111"
     },
     {
       "id": "957",
-      "name": "Tafilah Governorate",
+      "name": "Tafilah",
       "country_id": "111"
     },
     {
       "id": "967",
-      "name": "Zarqa Governorate",
+      "name": "Zarqa",
       "country_id": "111"
     },
     {
@@ -10342,32 +10257,32 @@
     },
     {
       "id": "977",
-      "name": "Al Ahmadi Governorate",
+      "name": "Al Ahmadi",
       "country_id": "117"
     },
     {
       "id": "975",
-      "name": "Al Farwaniyah Governorate",
+      "name": "Al Farwaniyah",
       "country_id": "117"
     },
     {
       "id": "972",
-      "name": "Al Jahra Governorate",
+      "name": "Al Jahra",
       "country_id": "117"
     },
     {
       "id": "976",
-      "name": "Capital Governorate",
+      "name": "Capital",
       "country_id": "117"
     },
     {
       "id": "973",
-      "name": "Hawalli Governorate",
+      "name": "Hawalli",
       "country_id": "117"
     },
     {
       "id": "974",
-      "name": "Mubarak Al-Kabeer Governorate",
+      "name": "Mubarak Al-Kabeer",
       "country_id": "117"
     },
     {
@@ -11102,42 +11017,42 @@
     },
     {
       "id": "2285",
-      "name": "Akkar Governorate",
+      "name": "Akkar",
       "country_id": "121"
     },
     {
       "id": "2283",
-      "name": "Baalbek-Hermel Governorate",
+      "name": "Baalbek-Hermel",
       "country_id": "121"
     },
     {
       "id": "2286",
-      "name": "Beirut Governorate",
+      "name": "Beirut",
       "country_id": "121"
     },
     {
       "id": "2287",
-      "name": "Beqaa Governorate",
+      "name": "Beqaa",
       "country_id": "121"
     },
     {
       "id": "2282",
-      "name": "Mount Lebanon Governorate",
+      "name": "Mount Lebanon",
       "country_id": "121"
     },
     {
       "id": "2288",
-      "name": "Nabatieh Governorate",
+      "name": "Nabatieh",
       "country_id": "121"
     },
     {
       "id": "2284",
-      "name": "North Governorate",
+      "name": "North",
       "country_id": "121"
     },
     {
       "id": "2281",
-      "name": "South Governorate",
+      "name": "South",
       "country_id": "121"
     },
     {
@@ -13132,87 +13047,62 @@
     },
     {
       "id": "3248",
-      "name": "Agaléga",
-      "country_id": "140"
-    },
-    {
-      "id": "3262",
-      "name": "Beau Bassin-Rose Hill",
-      "country_id": "140"
-    },
-    {
-      "id": "3251",
-      "name": "Cargados Carajos",
-      "country_id": "140"
-    },
-    {
-      "id": "3255",
-      "name": "Curepipe",
-      "country_id": "140"
-    },
-    {
-      "id": "3254",
-      "name": "Flacq District",
-      "country_id": "140"
-    },
-    {
-      "id": "3264",
-      "name": "Grand Port District",
-      "country_id": "140"
-    },
-    {
-      "id": "3253",
-      "name": "Moka District",
-      "country_id": "140"
-    },
-    {
-      "id": "3250",
-      "name": "Pamplemousses District",
-      "country_id": "140"
-    },
-    {
-      "id": "3263",
-      "name": "Plaines Wilhems District",
-      "country_id": "140"
-    },
-    {
-      "id": "3256",
-      "name": "Port Louis",
-      "country_id": "140"
-    },
-    {
-      "id": "3260",
-      "name": "Port Louis District",
-      "country_id": "140"
-    },
-    {
-      "id": "3258",
-      "name": "Quatre Bornes",
-      "country_id": "140"
-    },
-    {
-      "id": "3261",
-      "name": "Rivière du Rempart District",
+      "name": "Agalega Islands",
       "country_id": "140"
     },
     {
       "id": "3259",
-      "name": "Rivière Noire District",
+      "name": "Black River",
+      "country_id": "140"
+    },
+    {
+      "id": "3254",
+      "name": "Flacq",
+      "country_id": "140"
+    },
+    {
+      "id": "3264",
+      "name": "Grand Port",
+      "country_id": "140"
+    },
+    {
+      "id": "3253",
+      "name": "Moka",
+      "country_id": "140"
+    },
+    {
+      "id": "3250",
+      "name": "Pamplemousses",
+      "country_id": "140"
+    },
+    {
+      "id": "3263",
+      "name": "Plaines Wilhems",
+      "country_id": "140"
+    },
+    {
+      "id": "3260",
+      "name": "Port Louis",
+      "country_id": "140"
+    },
+    {
+      "id": "3261",
+      "name": "Rivière du Rempart",
       "country_id": "140"
     },
     {
       "id": "3249",
-      "name": "Rodrigues",
+      "name": "Rodrigues Island",
+      "country_id": "140"
+    },
+    {
+      "id": "3251",
+      "name": "Saint Brandon Islands",
       "country_id": "140"
     },
     {
       "id": "3257",
-      "name": "Savanne District",
-      "country_id": "140"
-    },
-    {
-      "id": "3252",
-      "name": "Vacoas-Phoenix",
+      "name": "Savanne",
       "country_id": "140"
     },
     {
@@ -15126,28 +15016,13 @@
       "country_id": "115"
     },
     {
-      "id": "1017",
-      "name": "Akershus",
+      "id": "1014",
+      "name": "Agder",
       "country_id": "165"
     },
     {
-      "id": "1011",
-      "name": "Buskerud",
-      "country_id": "165"
-    },
-    {
-      "id": "1016",
-      "name": "Finnmark",
-      "country_id": "165"
-    },
-    {
-      "id": "1019",
-      "name": "Hedmark",
-      "country_id": "165"
-    },
-    {
-      "id": "1023",
-      "name": "Hordaland",
+      "id": "1009",
+      "name": "Innlandet",
       "country_id": "165"
     },
     {
@@ -15161,18 +15036,8 @@
       "country_id": "165"
     },
     {
-      "id": "1012",
-      "name": "Nord-Trøndelag",
-      "country_id": "165"
-    },
-    {
       "id": "1025",
       "name": "Nordland",
-      "country_id": "165"
-    },
-    {
-      "id": "1009",
-      "name": "Oppland",
       "country_id": "165"
     },
     {
@@ -15181,23 +15046,8 @@
       "country_id": "165"
     },
     {
-      "id": "1022",
-      "name": "Østfold",
-      "country_id": "165"
-    },
-    {
       "id": "1021",
       "name": "Rogaland",
-      "country_id": "165"
-    },
-    {
-      "id": "1018",
-      "name": "Sogn og Fjordane",
-      "country_id": "165"
-    },
-    {
-      "id": "1010",
-      "name": "Sør-Trøndelag",
       "country_id": "165"
     },
     {
@@ -15206,13 +15056,8 @@
       "country_id": "165"
     },
     {
-      "id": "1024",
-      "name": "Telemark",
-      "country_id": "165"
-    },
-    {
       "id": "1015",
-      "name": "Troms",
+      "name": "Troms og Finnmark",
       "country_id": "165"
     },
     {
@@ -15221,28 +15066,33 @@
       "country_id": "165"
     },
     {
-      "id": "1014",
-      "name": "Vest-Agder",
+      "id": "1024",
+      "name": "Vestfold og Telemark",
       "country_id": "165"
     },
     {
-      "id": "1008",
-      "name": "Vestfold",
+      "id": "1018",
+      "name": "Vestland",
+      "country_id": "165"
+    },
+    {
+      "id": "1011",
+      "name": "Viken",
       "country_id": "165"
     },
     {
       "id": "3058",
-      "name": "Ad Dakhiliyah Governorate",
+      "name": "Ad Dakhiliyah",
       "country_id": "166"
     },
     {
       "id": "3047",
-      "name": "Ad Dhahirah Governorate",
+      "name": "Ad Dhahirah",
       "country_id": "166"
     },
     {
       "id": "3048",
-      "name": "Al Batinah North Governorate",
+      "name": "Al Batinah North",
       "country_id": "166"
     },
     {
@@ -15252,22 +15102,22 @@
     },
     {
       "id": "3049",
-      "name": "Al Batinah South Governorate",
+      "name": "Al Batinah South",
       "country_id": "166"
     },
     {
       "id": "3059",
-      "name": "Al Buraimi Governorate",
+      "name": "Al Buraimi",
       "country_id": "166"
     },
     {
       "id": "3056",
-      "name": "Al Wusta Governorate",
+      "name": "Al Wusta",
       "country_id": "166"
     },
     {
       "id": "3053",
-      "name": "Ash Sharqiyah North Governorate",
+      "name": "Ash Sharqiyah North",
       "country_id": "166"
     },
     {
@@ -15277,22 +15127,22 @@
     },
     {
       "id": "3054",
-      "name": "Ash Sharqiyah South Governorate",
+      "name": "Ash Sharqiyah South",
       "country_id": "166"
     },
     {
       "id": "3057",
-      "name": "Dhofar Governorate",
+      "name": "Dhofar",
       "country_id": "166"
     },
     {
       "id": "3052",
-      "name": "Musandam Governorate",
+      "name": "Musandam",
       "country_id": "166"
     },
     {
       "id": "3055",
-      "name": "Muscat Governorate",
+      "name": "Muscat",
       "country_id": "166"
     },
     {
@@ -15414,6 +15264,86 @@
       "id": "4535",
       "name": "Sonsorol",
       "country_id": "168"
+    },
+    {
+      "id": "5118",
+      "name": "Bethlehem",
+      "country_id": "169"
+    },
+    {
+      "id": "5119",
+      "name": "Deir El Balah",
+      "country_id": "169"
+    },
+    {
+      "id": "5120",
+      "name": "Gaza",
+      "country_id": "169"
+    },
+    {
+      "id": "5121",
+      "name": "Hebron",
+      "country_id": "169"
+    },
+    {
+      "id": "5122",
+      "name": "Jenin",
+      "country_id": "169"
+    },
+    {
+      "id": "5123",
+      "name": "Jericho and Al Aghwar",
+      "country_id": "169"
+    },
+    {
+      "id": "5124",
+      "name": "Jerusalem",
+      "country_id": "169"
+    },
+    {
+      "id": "5125",
+      "name": "Khan Yunis",
+      "country_id": "169"
+    },
+    {
+      "id": "5126",
+      "name": "Nablus",
+      "country_id": "169"
+    },
+    {
+      "id": "5127",
+      "name": "North Gaza",
+      "country_id": "169"
+    },
+    {
+      "id": "5128",
+      "name": "Qalqilya",
+      "country_id": "169"
+    },
+    {
+      "id": "5129",
+      "name": "Rafah",
+      "country_id": "169"
+    },
+    {
+      "id": "5130",
+      "name": "Ramallah",
+      "country_id": "169"
+    },
+    {
+      "id": "5131",
+      "name": "Salfit",
+      "country_id": "169"
+    },
+    {
+      "id": "5132",
+      "name": "Tubas",
+      "country_id": "169"
+    },
+    {
+      "id": "5133",
+      "name": "Tulkarm",
+      "country_id": "169"
     },
     {
       "id": "1393",
@@ -15867,7 +15797,7 @@
     },
     {
       "id": "1304",
-      "name": "Bicol Region",
+      "name": "Bicol",
       "country_id": "174"
     },
     {
@@ -15962,12 +15892,17 @@
     },
     {
       "id": "1335",
-      "name": "Cordillera Administrative Region",
+      "name": "Cordillera Administrative",
       "country_id": "174"
     },
     {
       "id": "1320",
       "name": "Cotabato",
+      "country_id": "174"
+    },
+    {
+      "id": "1340",
+      "name": "Davao",
       "country_id": "174"
     },
     {
@@ -15988,11 +15923,6 @@
     {
       "id": "1289",
       "name": "Davao Oriental",
-      "country_id": "174"
-    },
-    {
-      "id": "1340",
-      "name": "Davao Region",
       "country_id": "174"
     },
     {
@@ -16021,13 +15951,13 @@
       "country_id": "174"
     },
     {
-      "id": "1298",
-      "name": "Ilocos Norte",
+      "id": "1355",
+      "name": "Ilocos",
       "country_id": "174"
     },
     {
-      "id": "1355",
-      "name": "Ilocos Region",
+      "id": "1298",
+      "name": "Ilocos Norte",
       "country_id": "174"
     },
     {
@@ -16248,6 +16178,11 @@
     {
       "id": "1293",
       "name": "Tawi-Tawi",
+      "country_id": "174"
+    },
+    {
+      "id": "5115",
+      "name": "Western Samar",
       "country_id": "174"
     },
     {
@@ -19316,13 +19251,28 @@
       "country_id": "206"
     },
     {
-      "id": "1193",
-      "name": "Andalusia",
+      "id": "5089",
+      "name": "A Coruña",
       "country_id": "207"
     },
     {
-      "id": "1177",
-      "name": "Aragon",
+      "id": "5109",
+      "name": "Albacete",
+      "country_id": "207"
+    },
+    {
+      "id": "5108",
+      "name": "Alicante",
+      "country_id": "207"
+    },
+    {
+      "id": "5095",
+      "name": "Almeria",
+      "country_id": "207"
+    },
+    {
+      "id": "5093",
+      "name": "Araba",
       "country_id": "207"
     },
     {
@@ -19336,23 +19286,33 @@
       "country_id": "207"
     },
     {
-      "id": "1174",
-      "name": "Balearic Islands",
+      "id": "5092",
+      "name": "Badajoz",
       "country_id": "207"
     },
     {
-      "id": "1191",
-      "name": "Basque Country",
+      "id": "5102",
+      "name": "Barcelona",
+      "country_id": "207"
+    },
+    {
+      "id": "5094",
+      "name": "Bizkaia",
       "country_id": "207"
     },
     {
       "id": "1146",
-      "name": "Burgos Province",
+      "name": "Burgos",
       "country_id": "207"
     },
     {
-      "id": "1185",
-      "name": "Canary Islands",
+      "id": "1190",
+      "name": "Caceres",
+      "country_id": "207"
+    },
+    {
+      "id": "5096",
+      "name": "Cádiz",
       "country_id": "207"
     },
     {
@@ -19361,33 +19321,63 @@
       "country_id": "207"
     },
     {
-      "id": "1184",
-      "name": "Castile and León",
+      "id": "5110",
+      "name": "Castellón",
       "country_id": "207"
     },
     {
-      "id": "1205",
-      "name": "Castilla La Mancha",
+      "id": "5105",
+      "name": "Ciudad Real",
       "country_id": "207"
     },
     {
-      "id": "1203",
-      "name": "Catalonia",
+      "id": "5097",
+      "name": "Córdoba",
       "country_id": "207"
     },
     {
-      "id": "1206",
-      "name": "Ceuta",
+      "id": "5106",
+      "name": "Cuenca",
       "country_id": "207"
     },
     {
-      "id": "1190",
-      "name": "Extremadura",
+      "id": "1191",
+      "name": "Gipuzkoa",
       "country_id": "207"
     },
     {
-      "id": "1167",
-      "name": "Galicia",
+      "id": "5103",
+      "name": "Girona",
+      "country_id": "207"
+    },
+    {
+      "id": "5098",
+      "name": "Granada",
+      "country_id": "207"
+    },
+    {
+      "id": "5107",
+      "name": "Guadalajara",
+      "country_id": "207"
+    },
+    {
+      "id": "5099",
+      "name": "Huelva",
+      "country_id": "207"
+    },
+    {
+      "id": "1177",
+      "name": "Huesca",
+      "country_id": "207"
+    },
+    {
+      "id": "1174",
+      "name": "Islas Baleares",
+      "country_id": "207"
+    },
+    {
+      "id": "5100",
+      "name": "Jaén",
       "country_id": "207"
     },
     {
@@ -19396,8 +19386,23 @@
       "country_id": "207"
     },
     {
+      "id": "1185",
+      "name": "Las Palmas",
+      "country_id": "207"
+    },
+    {
       "id": "1200",
       "name": "Léon",
+      "country_id": "207"
+    },
+    {
+      "id": "5104",
+      "name": "Lleida",
+      "country_id": "207"
+    },
+    {
+      "id": "5090",
+      "name": "Lugo",
       "country_id": "207"
     },
     {
@@ -19406,8 +19411,8 @@
       "country_id": "207"
     },
     {
-      "id": "1159",
-      "name": "Melilla",
+      "id": "5101",
+      "name": "Málaga",
       "country_id": "207"
     },
     {
@@ -19421,23 +19426,58 @@
       "country_id": "207"
     },
     {
+      "id": "5091",
+      "name": "Ourense",
+      "country_id": "207"
+    },
+    {
       "id": "1157",
-      "name": "Palencia Province",
+      "name": "Palencia",
+      "country_id": "207"
+    },
+    {
+      "id": "1167",
+      "name": "Pontevedra",
       "country_id": "207"
     },
     {
       "id": "1147",
-      "name": "Salamanca Province",
+      "name": "Salamanca",
+      "country_id": "207"
+    },
+    {
+      "id": "5112",
+      "name": "Santa Cruz de Tenerife",
       "country_id": "207"
     },
     {
       "id": "1192",
-      "name": "Segovia Province",
+      "name": "Segovia",
+      "country_id": "207"
+    },
+    {
+      "id": "1193",
+      "name": "Sevilla",
       "country_id": "207"
     },
     {
       "id": "1208",
-      "name": "Soria Province",
+      "name": "Soria",
+      "country_id": "207"
+    },
+    {
+      "id": "1203",
+      "name": "Tarragona",
+      "country_id": "207"
+    },
+    {
+      "id": "5111",
+      "name": "Teruel",
+      "country_id": "207"
+    },
+    {
+      "id": "1205",
+      "name": "Toledo",
       "country_id": "207"
     },
     {
@@ -19447,12 +19487,17 @@
     },
     {
       "id": "1183",
-      "name": "Valladolid Province",
+      "name": "Valladolid",
       "country_id": "207"
     },
     {
       "id": "1161",
-      "name": "Zamora Province",
+      "name": "Zamora",
+      "country_id": "207"
+    },
+    {
+      "id": "5113",
+      "name": "Zaragoza",
       "country_id": "207"
     },
     {
@@ -20012,72 +20057,72 @@
     },
     {
       "id": "2941",
-      "name": "Al-Hasakah Governorate",
+      "name": "Al-Hasakah",
       "country_id": "215"
     },
     {
       "id": "2944",
-      "name": "Al-Raqqah Governorate",
+      "name": "Al-Raqqah",
       "country_id": "215"
     },
     {
       "id": "2946",
-      "name": "Aleppo Governorate",
+      "name": "Aleppo",
       "country_id": "215"
     },
     {
       "id": "2936",
-      "name": "As-Suwayda Governorate",
+      "name": "As-Suwayda",
       "country_id": "215"
     },
     {
       "id": "2939",
-      "name": "Damascus Governorate",
+      "name": "Damascus",
       "country_id": "215"
     },
     {
       "id": "2945",
-      "name": "Daraa Governorate",
+      "name": "Daraa",
       "country_id": "215"
     },
     {
       "id": "2937",
-      "name": "Deir ez-Zor Governorate",
+      "name": "Deir ez-Zor",
       "country_id": "215"
     },
     {
       "id": "2934",
-      "name": "Hama Governorate",
+      "name": "Hama",
       "country_id": "215"
     },
     {
       "id": "2942",
-      "name": "Homs Governorate",
+      "name": "Homs",
       "country_id": "215"
     },
     {
       "id": "2940",
-      "name": "Idlib Governorate",
+      "name": "Idlib",
       "country_id": "215"
     },
     {
       "id": "2938",
-      "name": "Latakia Governorate",
+      "name": "Latakia",
       "country_id": "215"
     },
     {
       "id": "2943",
-      "name": "Quneitra Governorate",
+      "name": "Quneitra",
       "country_id": "215"
     },
     {
       "id": "2935",
-      "name": "Rif Dimashq Governorate",
+      "name": "Rif Dimashq",
       "country_id": "215"
     },
     {
       "id": "2947",
-      "name": "Tartus Governorate",
+      "name": "Tartus",
       "country_id": "215"
     },
     {
@@ -21097,42 +21142,42 @@
     },
     {
       "id": "2550",
-      "name": "Ariana Governorate",
+      "name": "Ariana",
       "country_id": "224"
     },
     {
       "id": "2566",
-      "name": "Ben Arous Governorate",
+      "name": "Ben Arous",
       "country_id": "224"
     },
     {
       "id": "2551",
-      "name": "Bizerte Governorate",
+      "name": "Bizerte",
       "country_id": "224"
     },
     {
       "id": "2558",
-      "name": "Gabès Governorate",
+      "name": "Gabès",
       "country_id": "224"
     },
     {
       "id": "2556",
-      "name": "Gafsa Governorate",
+      "name": "Gafsa",
       "country_id": "224"
     },
     {
       "id": "2552",
-      "name": "Jendouba Governorate",
+      "name": "Jendouba",
       "country_id": "224"
     },
     {
       "id": "2564",
-      "name": "Kairouan Governorate",
+      "name": "Kairouan",
       "country_id": "224"
     },
     {
       "id": "2570",
-      "name": "Kasserine Governorate",
+      "name": "Kasserine",
       "country_id": "224"
     },
     {
@@ -21142,72 +21187,77 @@
     },
     {
       "id": "2562",
-      "name": "Kebili Governorate",
+      "name": "Kebili",
       "country_id": "224"
     },
     {
       "id": "2561",
-      "name": "Kef Governorate",
+      "name": "Kef",
       "country_id": "224"
     },
     {
       "id": "2568",
-      "name": "Mahdia Governorate",
+      "name": "Mahdia",
       "country_id": "224"
     },
     {
       "id": "2555",
-      "name": "Manouba Governorate",
+      "name": "Manouba",
       "country_id": "224"
     },
     {
       "id": "2560",
-      "name": "Medenine Governorate",
+      "name": "Medenine",
       "country_id": "224"
     },
     {
       "id": "2553",
-      "name": "Monastir Governorate",
+      "name": "Monastir",
+      "country_id": "224"
+    },
+    {
+      "id": "5116",
+      "name": "Nabeul",
       "country_id": "224"
     },
     {
       "id": "2557",
-      "name": "Sfax Governorate",
+      "name": "Sfax",
       "country_id": "224"
     },
     {
       "id": "2567",
-      "name": "Sidi Bouzid Governorate",
+      "name": "Sidi Bouzid",
       "country_id": "224"
     },
     {
       "id": "2563",
-      "name": "Siliana Governorate",
+      "name": "Siliana",
       "country_id": "224"
     },
     {
       "id": "2571",
-      "name": "Sousse Governorate",
+      "name": "Sousse",
       "country_id": "224"
     },
     {
       "id": "2559",
-      "name": "Tataouine Governorate",
+      "name": "Tataouine",
       "country_id": "224"
     },
     {
       "id": "2569",
-      "name": "Tozeur Governorate",
+      "name": "Tozeur",
       "country_id": "224"
     },
     {
       "id": "2554",
-      "name": "Tunis Governorate",
+      "name": "Tunis",
       "country_id": "224"
     },
     {
       "id": "2565",
-      "name": "Zaghouan Governorate",
+      "name": "Zaghouan",
       "country_id": "224"
     },
     {
@@ -21407,7 +21457,7 @@
     },
     {
       "id": "2170",
-      "name": "Istanbul",
+      "name": "İstanbul",
       "country_id": "225"
     },
     {
@@ -24692,82 +24742,87 @@
     },
     {
       "id": "1242",
-      "name": "'Adan Governorate",
+      "name": "'Adan",
       "country_id": "245"
     },
     {
       "id": "1250",
-      "name": "'Amran Governorate",
+      "name": "'Amran",
       "country_id": "245"
     },
     {
       "id": "1237",
-      "name": "Abyan Governorate",
+      "name": "Abyan",
       "country_id": "245"
     },
     {
       "id": "1240",
-      "name": "Al Bayda' Governorate",
+      "name": "Al Bayda'",
       "country_id": "245"
     },
     {
       "id": "1241",
-      "name": "Al Hudaydah Governorate",
+      "name": "Al Hudaydah",
       "country_id": "245"
     },
     {
       "id": "1243",
-      "name": "Al Jawf Governorate",
+      "name": "Al Jawf",
       "country_id": "245"
     },
     {
       "id": "1251",
-      "name": "Al Mahrah Governorate",
+      "name": "Al Mahrah",
       "country_id": "245"
     },
     {
       "id": "1235",
-      "name": "Al Mahwit Governorate",
+      "name": "Al Mahwit",
       "country_id": "245"
     },
     {
       "id": "1246",
-      "name": "Dhamar Governorate",
+      "name": "Dhamar",
       "country_id": "245"
     },
     {
       "id": "1238",
-      "name": "Hadhramaut Governorate",
+      "name": "Hadhramaut",
       "country_id": "245"
     },
     {
       "id": "1244",
-      "name": "Hajjah Governorate",
+      "name": "Hajjah",
       "country_id": "245"
     },
     {
       "id": "1233",
-      "name": "Ibb Governorate",
+      "name": "Ibb",
       "country_id": "245"
     },
     {
       "id": "1245",
-      "name": "Lahij Governorate",
+      "name": "Lahij",
       "country_id": "245"
     },
     {
       "id": "1234",
-      "name": "Ma'rib Governorate",
+      "name": "Ma'rib",
       "country_id": "245"
     },
     {
       "id": "1248",
-      "name": "Raymah Governorate",
+      "name": "Raymah",
       "country_id": "245"
     },
     {
       "id": "1249",
-      "name": "Saada Governorate",
+      "name": "Saada",
+      "country_id": "245"
+    },
+    {
+      "id": "1236",
+      "name": "Sana'a",
       "country_id": "245"
     },
     {
@@ -24776,23 +24831,18 @@
       "country_id": "245"
     },
     {
-      "id": "1236",
-      "name": "Sana'a Governorate",
-      "country_id": "245"
-    },
-    {
       "id": "1247",
-      "name": "Shabwah Governorate",
+      "name": "Shabwah",
       "country_id": "245"
     },
     {
       "id": "1239",
-      "name": "Socotra Governorate",
+      "name": "Socotra",
       "country_id": "245"
     },
     {
       "id": "1231",
-      "name": "Ta'izz Governorate",
+      "name": "Ta'izz",
       "country_id": "245"
     },
     {
