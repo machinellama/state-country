@@ -2107,47 +2107,47 @@
     },
     {
       "id": "4860",
-      "name": "Devonshire Parish",
+      "name": "Devonshire",
       "country_id": "25"
     },
     {
       "id": "4861",
-      "name": "Hamilton Parish",
+      "name": "Hamilton",
       "country_id": "25"
     },
     {
       "id": "4863",
-      "name": "Paget Parish",
+      "name": "Paget",
       "country_id": "25"
     },
     {
       "id": "4864",
-      "name": "Pembroke Parish",
+      "name": "Pembroke",
       "country_id": "25"
     },
     {
       "id": "4866",
-      "name": "Saint George's Parish",
+      "name": "Saint George's",
       "country_id": "25"
     },
     {
       "id": "4867",
-      "name": "Sandys Parish",
+      "name": "Sandys",
       "country_id": "25"
     },
     {
       "id": "4868",
-      "name": "Smith's Parish,",
+      "name": "Smith's",
       "country_id": "25"
     },
     {
       "id": "4869",
-      "name": "Southampton Parish",
+      "name": "Southampton",
       "country_id": "25"
     },
     {
       "id": "4870",
-      "name": "Warwick Parish",
+      "name": "Warwick",
       "country_id": "25"
     },
     {
@@ -7852,7 +7852,7 @@
     },
     {
       "id": "4889",
-      "name": "Central and Western District",
+      "name": "Central and Western",
       "country_id": "98"
     },
     {
@@ -7862,7 +7862,7 @@
     },
     {
       "id": "4888",
-      "name": "Islands District",
+      "name": "Islands",
       "country_id": "98"
     },
     {
@@ -7887,7 +7887,7 @@
     },
     {
       "id": "4887",
-      "name": "Sai Kung District",
+      "name": "Sai Kung",
       "country_id": "98"
     },
     {
@@ -7907,12 +7907,12 @@
     },
     {
       "id": "4885",
-      "name": "Tai Po District",
+      "name": "Tai Po",
       "country_id": "98"
     },
     {
       "id": "4884",
-      "name": "Tsuen Wan District",
+      "name": "Tsuen Wan",
       "country_id": "98"
     },
     {
@@ -7937,7 +7937,7 @@
     },
     {
       "id": "4883",
-      "name": "Yuen Long District",
+      "name": "Yuen Long",
       "country_id": "98"
     },
     {
@@ -18212,27 +18212,27 @@
     },
     {
       "id": "4651",
-      "name": "Central Singapore Community Development Council",
+      "name": "Central Singapore",
       "country_id": "199"
     },
     {
       "id": "4649",
-      "name": "North East Community Development Council",
+      "name": "North East",
       "country_id": "199"
     },
     {
       "id": "4653",
-      "name": "North West Community Development Council",
+      "name": "North West",
       "country_id": "199"
     },
     {
       "id": "4650",
-      "name": "South East Community Development Council",
+      "name": "South East",
       "country_id": "199"
     },
     {
       "id": "4652",
-      "name": "South West Community Development Council",
+      "name": "South West",
       "country_id": "199"
     },
     {
