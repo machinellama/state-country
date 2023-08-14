@@ -17416,11 +17416,6 @@
       "country_id": "182"
     },
     {
-      "id": "1912",
-      "name": "Sevastopol",
-      "country_id": "182"
-    },
-    {
       "id": "1885",
       "name": "Smolensk Oblast",
       "country_id": "182"
@@ -19711,6 +19706,11 @@
       "country_id": "207"
     },
     {
+      "id": "5222",
+      "name": "Canarias",
+      "country_id": "207"
+    },
+    {
       "id": "1170",
       "name": "Cantabria",
       "country_id": "207"
@@ -19718,6 +19718,11 @@
     {
       "id": "5110",
       "name": "Castellón",
+      "country_id": "207"
+    },
+    {
+      "id": "5223",
+      "name": "Ceuta",
       "country_id": "207"
     },
     {
@@ -19808,6 +19813,11 @@
     {
       "id": "5101",
       "name": "Málaga",
+      "country_id": "207"
+    },
+    {
+      "id": "5224",
+      "name": "Melilla",
       "country_id": "207"
     },
     {
@@ -22856,6 +22866,11 @@
       "country_id": "230"
     },
     {
+      "id": "1912",
+      "name": "Sevastopol",
+      "country_id": "230"
+    },
+    {
       "id": "4685",
       "name": "Sumska oblast",
       "country_id": "230"
@@ -24537,97 +24552,97 @@
     },
     {
       "id": "3205",
-      "name": "Artigas Department",
+      "name": "Artigas",
       "country_id": "235"
     },
     {
       "id": "3213",
-      "name": "Canelones Department",
+      "name": "Canelones",
       "country_id": "235"
     },
     {
       "id": "3211",
-      "name": "Cerro Largo Department",
+      "name": "Cerro Largo",
       "country_id": "235"
     },
     {
       "id": "3208",
-      "name": "Colonia Department",
+      "name": "Colonia",
       "country_id": "235"
     },
     {
       "id": "3209",
-      "name": "Durazno Department",
+      "name": "Durazno",
       "country_id": "235"
     },
     {
       "id": "3203",
-      "name": "Flores Department",
+      "name": "Flores",
       "country_id": "235"
     },
     {
       "id": "3217",
-      "name": "Florida Department",
+      "name": "Florida",
       "country_id": "235"
     },
     {
       "id": "3215",
-      "name": "Lavalleja Department",
+      "name": "Lavalleja",
       "country_id": "235"
     },
     {
       "id": "3206",
-      "name": "Maldonado Department",
+      "name": "Maldonado",
       "country_id": "235"
     },
     {
       "id": "3218",
-      "name": "Montevideo Department",
+      "name": "Montevideo",
       "country_id": "235"
     },
     {
       "id": "3212",
-      "name": "Paysandú Department",
+      "name": "Paysandú",
       "country_id": "235"
     },
     {
       "id": "3210",
-      "name": "Río Negro Department",
+      "name": "Río Negro",
       "country_id": "235"
     },
     {
       "id": "3207",
-      "name": "Rivera Department",
+      "name": "Rivera",
       "country_id": "235"
     },
     {
       "id": "3216",
-      "name": "Rocha Department",
+      "name": "Rocha",
       "country_id": "235"
     },
     {
       "id": "3220",
-      "name": "Salto Department",
+      "name": "Salto",
       "country_id": "235"
     },
     {
       "id": "3204",
-      "name": "San José Department",
+      "name": "San José",
       "country_id": "235"
     },
     {
       "id": "3219",
-      "name": "Soriano Department",
+      "name": "Soriano",
       "country_id": "235"
     },
     {
       "id": "3221",
-      "name": "Tacuarembó Department",
+      "name": "Tacuarembó",
       "country_id": "235"
     },
     {
       "id": "3214",
-      "name": "Treinta y Tres Department",
+      "name": "Treinta y Tres",
       "country_id": "235"
     },
     {
