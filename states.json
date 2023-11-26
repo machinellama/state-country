@@ -14151,6 +14151,21 @@
       "country_id": "156"
     },
     {
+      "id": "5227",
+      "name": "Loyalty Islands Province",
+      "country_id": "157"
+    },
+    {
+      "id": "5226",
+      "name": "North Province",
+      "country_id": "157"
+    },
+    {
+      "id": "5225",
+      "name": "South Province",
+      "country_id": "157"
+    },
+    {
       "id": "4072",
       "name": "Auckland Region",
       "country_id": "158"
@@ -20232,7 +20247,7 @@
     },
     {
       "id": "1537",
-      "name": "Blekinge",
+      "name": "Blekinge County",
       "country_id": "213"
     },
     {
