@@ -1,4 +1,3 @@
-const alasql = require('alasql/dist/alasql.min.js');
 const countries = require('./countries.json').countries;
 const states = require('./states.json').states;
 
@@ -17,13 +16,12 @@ module.exports = {
       return [];
     }
 
-    const countryIdQuery = "VALUE OF SELECT * FROM ? AS country WHERE LOWER(country.name) = '" + cleanCountry + "'";
-    const countryId = alasql(countryIdQuery, [countries]);
+    const country = countries.find(country => cleanInput(country.name) === cleanCountry);
+    if (!country) {
+      return [];
+    }
 
-    const stateCountryJoinQuery = 'SELECT state.* FROM ? as state WHERE state.country_id="' + countryId + '"';
-    const stateCountryJoinList = alasql(stateCountryJoinQuery, [states]);
-
-    return stateCountryJoinList;
+    return states.filter(state => state.country_id === country.id);
   },
 
   searchStates: function (searchTextState) {
@@ -32,13 +30,11 @@ module.exports = {
       return [];
     }
 
-    const searchStateQuery = 'SELECT * FROM ? as state WHERE name iLIKE "%' + cleanState + '%"';
-    const statesList = alasql(searchStateQuery, [states]);
-
-    const stateCountryJoinQuery = 'SELECT state.*, country.name as countryName FROM ? as state JOIN ? as country ON state.country_id = country.id';
-    const stateCountryList = alasql(stateCountryJoinQuery, [statesList, countries]);
-
-    return stateCountryList;
+    const filteredStates = states.filter(state => state.name.toLowerCase().includes(cleanState));
+    return filteredStates.map(state => {
+      const country = countries.find(country => country.id === state.country_id);
+      return { ...state, countryName: country ? country.name : '' };
+    });
   },
 
   searchCountries: function (searchTextCountry) {
@@ -47,14 +43,11 @@ module.exports = {
       return [];
     }
 
-    const searchCountryQuery = 'SELECT * FROM ? as country WHERE name iLIKE "' + cleanCountry + '%"';
-    const countryList = alasql(searchCountryQuery, [countries]);
-
-    return countryList;
+    return countries.filter(country => country.name.toLowerCase().startsWith(cleanCountry));
   },
 
   searchStatesInCountry: function (searchTextState, countryName) {
-    const countryStates = this.getAllStatesInCountry(countryName);
+    const countryStates = this.getAllStatesInCountry(cleanInput(countryName));
     if (countryStates.length === 0) {
       return [];
     }
@@ -64,13 +57,11 @@ module.exports = {
       return [];
     }
 
-    const searchStateQuery = 'SELECT * FROM ? as state WHERE name iLIKE "%' + cleanState + '%"';
-    const statesList = alasql(searchStateQuery, [countryStates]);
-
-    const stateCountryJoinQuery = 'SELECT state.*, country.name as countryName FROM ? as state JOIN ? as country ON state.country_id = country.id';
-    const stateCountryList = alasql(stateCountryJoinQuery, [statesList, countries]);
-
-    return stateCountryList;
+    const filteredStates = countryStates.filter(state => state.name.toLowerCase().includes(cleanState));
+    return filteredStates.map(state => {
+      const country = countries.find(country => country.id === state.country_id);
+      return { ...state, countryName: country ? country.name : '' };
+    });
   },
 };
 
