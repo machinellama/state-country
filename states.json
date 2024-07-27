@@ -5376,66 +5376,6 @@
       "country_id": "62"
     },
     {
-      "id": "4520",
-      "name": "Aileu municipality",
-      "country_id": "63"
-    },
-    {
-      "id": "4518",
-      "name": "Ainaro Municipality",
-      "country_id": "63"
-    },
-    {
-      "id": "4521",
-      "name": "Baucau Municipality",
-      "country_id": "63"
-    },
-    {
-      "id": "4525",
-      "name": "Bobonaro Municipality",
-      "country_id": "63"
-    },
-    {
-      "id": "4522",
-      "name": "Cova Lima Municipality",
-      "country_id": "63"
-    },
-    {
-      "id": "4524",
-      "name": "Dili municipality",
-      "country_id": "63"
-    },
-    {
-      "id": "4516",
-      "name": "Ermera District",
-      "country_id": "63"
-    },
-    {
-      "id": "4523",
-      "name": "Lautém Municipality",
-      "country_id": "63"
-    },
-    {
-      "id": "4515",
-      "name": "Liquiçá Municipality",
-      "country_id": "63"
-    },
-    {
-      "id": "4517",
-      "name": "Manatuto District",
-      "country_id": "63"
-    },
-    {
-      "id": "4519",
-      "name": "Manufahi Municipality",
-      "country_id": "63"
-    },
-    {
-      "id": "4514",
-      "name": "Viqueque Municipality",
-      "country_id": "63"
-    },
-    {
       "id": "2923",
       "name": "Azuay",
       "country_id": "64"
@@ -5911,6 +5851,26 @@
       "country_id": "69"
     },
     {
+      "id": "969",
+      "name": "Hhohho District",
+      "country_id": "212"
+    },
+    {
+      "id": "970",
+      "name": "Lubombo District",
+      "country_id": "212"
+    },
+    {
+      "id": "968",
+      "name": "Manzini District",
+      "country_id": "212"
+    },
+    {
+      "id": "971",
+      "name": "Shiselweni District",
+      "country_id": "212"
+    },
+    {
       "id": "11",
       "name": "Addis Ababa",
       "country_id": "70"
@@ -5964,6 +5924,36 @@
       "id": "4",
       "name": "Tigray Region",
       "country_id": "70"
+    },
+    {
+      "id": "5229",
+      "name": "Eysturoy",
+      "country_id": "72"
+    },
+    {
+      "id": "5230",
+      "name": "Northern Isles",
+      "country_id": "72"
+    },
+    {
+      "id": "5231",
+      "name": "Sandoy",
+      "country_id": "72"
+    },
+    {
+      "id": "5232",
+      "name": "Streymoy",
+      "country_id": "72"
+    },
+    {
+      "id": "5233",
+      "name": "Suðuroy",
+      "country_id": "72"
+    },
+    {
+      "id": "5234",
+      "name": "Vágar",
+      "country_id": "72"
     },
     {
       "id": "1917",
@@ -12426,13 +12416,13 @@
       "country_id": "135"
     },
     {
-      "id": "87",
-      "name": "Saint Lawrence",
+      "id": "75",
+      "name": "San Ġwann",
       "country_id": "135"
     },
     {
-      "id": "75",
-      "name": "San Ġwann",
+      "id": "87",
+      "name": "San Lawrenz",
       "country_id": "135"
     },
     {
@@ -15446,6 +15436,11 @@
       "country_id": "171"
     },
     {
+      "id": "5228",
+      "name": "East Sepik",
+      "country_id": "171"
+    },
+    {
       "id": "4845",
       "name": "Eastern Highlands Province",
       "country_id": "171"
@@ -16237,82 +16232,82 @@
     },
     {
       "id": "1634",
-      "name": "Greater Poland Voivodeship",
-      "country_id": "176"
-    },
-    {
-      "id": "1625",
-      "name": "Kuyavian-Pomeranian Voivodeship",
-      "country_id": "176"
-    },
-    {
-      "id": "1635",
-      "name": "Lesser Poland Voivodeship",
-      "country_id": "176"
-    },
-    {
-      "id": "1629",
-      "name": "Lower Silesian Voivodeship",
-      "country_id": "176"
-    },
-    {
-      "id": "1638",
-      "name": "Lublin Voivodeship",
-      "country_id": "176"
-    },
-    {
-      "id": "1631",
-      "name": "Lubusz Voivodeship",
-      "country_id": "176"
-    },
-    {
-      "id": "1636",
-      "name": "Łódź Voivodeship",
-      "country_id": "176"
-    },
-    {
-      "id": "1637",
-      "name": "Masovian Voivodeship",
-      "country_id": "176"
-    },
-    {
-      "id": "1622",
-      "name": "Opole Voivodeship",
-      "country_id": "176"
-    },
-    {
-      "id": "1626",
-      "name": "Podkarpackie Voivodeship",
-      "country_id": "176"
-    },
-    {
-      "id": "1632",
-      "name": "Podlaskie Voivodeship",
-      "country_id": "176"
-    },
-    {
-      "id": "1624",
-      "name": "Pomeranian Voivodeship",
-      "country_id": "176"
-    },
-    {
-      "id": "1623",
-      "name": "Silesian Voivodeship",
+      "name": "Greater Poland",
       "country_id": "176"
     },
     {
       "id": "1630",
-      "name": "Świętokrzyskie Voivodeship",
+      "name": "Holy Cross",
+      "country_id": "176"
+    },
+    {
+      "id": "1625",
+      "name": "Kuyavia-Pomerania",
+      "country_id": "176"
+    },
+    {
+      "id": "1635",
+      "name": "Lesser Poland",
+      "country_id": "176"
+    },
+    {
+      "id": "1629",
+      "name": "Lower Silesia",
+      "country_id": "176"
+    },
+    {
+      "id": "1638",
+      "name": "Lublin",
+      "country_id": "176"
+    },
+    {
+      "id": "1631",
+      "name": "Lubusz",
+      "country_id": "176"
+    },
+    {
+      "id": "1636",
+      "name": "Łódź",
+      "country_id": "176"
+    },
+    {
+      "id": "1637",
+      "name": "Mazovia",
+      "country_id": "176"
+    },
+    {
+      "id": "1632",
+      "name": "Podlaskie",
+      "country_id": "176"
+    },
+    {
+      "id": "1624",
+      "name": "Pomerania",
+      "country_id": "176"
+    },
+    {
+      "id": "1623",
+      "name": "Silesia",
+      "country_id": "176"
+    },
+    {
+      "id": "1626",
+      "name": "Subcarpathia",
+      "country_id": "176"
+    },
+    {
+      "id": "1622",
+      "name": "Upper Silesia",
       "country_id": "176"
     },
     {
       "id": "1628",
-      "name": "Warmian-Masurian Voivodeship",
+      "name": "Warmia-Masuria",
       "country_id": "176"
     },
     {
       "id": "1633",
-      "name": "West Pomeranian Voivodeship",
+      "name": "West Pomerania",
       "country_id": "176"
     },
     {
@@ -19807,7 +19802,7 @@
     },
     {
       "id": "1200",
-      "name": "Léon",
+      "name": "León",
       "country_id": "207"
     },
     {
@@ -20224,26 +20219,6 @@
       "id": "2844",
       "name": "Wanica District",
       "country_id": "210"
-    },
-    {
-      "id": "969",
-      "name": "Hhohho District",
-      "country_id": "212"
-    },
-    {
-      "id": "970",
-      "name": "Lubombo District",
-      "country_id": "212"
-    },
-    {
-      "id": "968",
-      "name": "Manzini District",
-      "country_id": "212"
-    },
-    {
-      "id": "971",
-      "name": "Shiselweni District",
-      "country_id": "212"
     },
     {
       "id": "1537",
@@ -21434,6 +21409,66 @@
       "id": "3599",
       "name": "West Grand Bahama",
       "country_id": "17"
+    },
+    {
+      "id": "4520",
+      "name": "Aileu municipality",
+      "country_id": "63"
+    },
+    {
+      "id": "4518",
+      "name": "Ainaro Municipality",
+      "country_id": "63"
+    },
+    {
+      "id": "4521",
+      "name": "Baucau Municipality",
+      "country_id": "63"
+    },
+    {
+      "id": "4525",
+      "name": "Bobonaro Municipality",
+      "country_id": "63"
+    },
+    {
+      "id": "4522",
+      "name": "Cova Lima Municipality",
+      "country_id": "63"
+    },
+    {
+      "id": "4524",
+      "name": "Dili municipality",
+      "country_id": "63"
+    },
+    {
+      "id": "4516",
+      "name": "Ermera District",
+      "country_id": "63"
+    },
+    {
+      "id": "4523",
+      "name": "Lautém Municipality",
+      "country_id": "63"
+    },
+    {
+      "id": "4515",
+      "name": "Liquiçá Municipality",
+      "country_id": "63"
+    },
+    {
+      "id": "4517",
+      "name": "Manatuto District",
+      "country_id": "63"
+    },
+    {
+      "id": "4519",
+      "name": "Manufahi Municipality",
+      "country_id": "63"
+    },
+    {
+      "id": "4514",
+      "name": "Viqueque Municipality",
+      "country_id": "63"
     },
     {
       "id": "2575",
