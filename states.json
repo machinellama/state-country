@@ -1511,353 +1511,43 @@
       "country_id": "18"
     },
     {
-      "id": "796",
-      "name": "Bagerhat District",
-      "country_id": "19"
-    },
-    {
-      "id": "802",
-      "name": "Bahadia",
-      "country_id": "19"
-    },
-    {
-      "id": "752",
-      "name": "Bandarban District",
-      "country_id": "19"
-    },
-    {
-      "id": "784",
-      "name": "Barguna District",
-      "country_id": "19"
-    },
-    {
-      "id": "818",
-      "name": "Barisal District",
-      "country_id": "19"
-    },
-    {
       "id": "807",
-      "name": "Barisal Division",
-      "country_id": "19"
-    },
-    {
-      "id": "756",
-      "name": "Bhola District",
-      "country_id": "19"
-    },
-    {
-      "id": "797",
-      "name": "Bogra District",
-      "country_id": "19"
-    },
-    {
-      "id": "810",
-      "name": "Brahmanbaria District",
-      "country_id": "19"
-    },
-    {
-      "id": "768",
-      "name": "Chandpur District",
-      "country_id": "19"
-    },
-    {
-      "id": "761",
-      "name": "Chapai Nawabganj District",
-      "country_id": "19"
-    },
-    {
-      "id": "785",
-      "name": "Chittagong District",
+      "name": "Barisal ",
       "country_id": "19"
     },
     {
       "id": "803",
-      "name": "Chittagong Division",
-      "country_id": "19"
-    },
-    {
-      "id": "788",
-      "name": "Chuadanga District",
-      "country_id": "19"
-    },
-    {
-      "id": "763",
-      "name": "Comilla District",
-      "country_id": "19"
-    },
-    {
-      "id": "751",
-      "name": "Cox's Bazar District",
-      "country_id": "19"
-    },
-    {
-      "id": "771",
-      "name": "Dhaka District",
+      "name": "Chittagong ",
       "country_id": "19"
     },
     {
       "id": "760",
-      "name": "Dhaka Division",
-      "country_id": "19"
-    },
-    {
-      "id": "783",
-      "name": "Dinajpur District",
-      "country_id": "19"
-    },
-    {
-      "id": "762",
-      "name": "Faridpur District",
-      "country_id": "19"
-    },
-    {
-      "id": "816",
-      "name": "Feni District",
-      "country_id": "19"
-    },
-    {
-      "id": "795",
-      "name": "Gaibandha District",
-      "country_id": "19"
-    },
-    {
-      "id": "798",
-      "name": "Gazipur District",
-      "country_id": "19"
-    },
-    {
-      "id": "792",
-      "name": "Gopalganj District",
-      "country_id": "19"
-    },
-    {
-      "id": "805",
-      "name": "Habiganj District",
-      "country_id": "19"
-    },
-    {
-      "id": "808",
-      "name": "Jamalpur District",
-      "country_id": "19"
-    },
-    {
-      "id": "757",
-      "name": "Jessore District",
-      "country_id": "19"
-    },
-    {
-      "id": "778",
-      "name": "Jhalokati District",
-      "country_id": "19"
-    },
-    {
-      "id": "789",
-      "name": "Jhenaidah District",
-      "country_id": "19"
-    },
-    {
-      "id": "806",
-      "name": "Joypurhat District",
-      "country_id": "19"
-    },
-    {
-      "id": "786",
-      "name": "Khagrachari District",
-      "country_id": "19"
-    },
-    {
-      "id": "811",
-      "name": "Khulna District",
+      "name": "Dhaka ",
       "country_id": "19"
     },
     {
       "id": "775",
-      "name": "Khulna Division",
-      "country_id": "19"
-    },
-    {
-      "id": "779",
-      "name": "Kishoreganj District",
-      "country_id": "19"
-    },
-    {
-      "id": "793",
-      "name": "Kurigram District",
-      "country_id": "19"
-    },
-    {
-      "id": "774",
-      "name": "Kushtia District",
-      "country_id": "19"
-    },
-    {
-      "id": "819",
-      "name": "Lakshmipur District",
-      "country_id": "19"
-    },
-    {
-      "id": "780",
-      "name": "Lalmonirhat District",
-      "country_id": "19"
-    },
-    {
-      "id": "817",
-      "name": "Madaripur District",
-      "country_id": "19"
-    },
-    {
-      "id": "776",
-      "name": "Meherpur District",
-      "country_id": "19"
-    },
-    {
-      "id": "794",
-      "name": "Moulvibazar District",
-      "country_id": "19"
-    },
-    {
-      "id": "790",
-      "name": "Munshiganj District",
-      "country_id": "19"
-    },
-    {
-      "id": "766",
-      "name": "Mymensingh District",
+      "name": "Khulna ",
       "country_id": "19"
     },
     {
       "id": "758",
-      "name": "Mymensingh Division",
-      "country_id": "19"
-    },
-    {
-      "id": "814",
-      "name": "Naogaon District",
-      "country_id": "19"
-    },
-    {
-      "id": "769",
-      "name": "Narail District",
-      "country_id": "19"
-    },
-    {
-      "id": "770",
-      "name": "Narayanganj District",
-      "country_id": "19"
-    },
-    {
-      "id": "787",
-      "name": "Natore District",
-      "country_id": "19"
-    },
-    {
-      "id": "764",
-      "name": "Netrokona District",
-      "country_id": "19"
-    },
-    {
-      "id": "772",
-      "name": "Nilphamari District",
-      "country_id": "19"
-    },
-    {
-      "id": "815",
-      "name": "Noakhali District",
-      "country_id": "19"
-    },
-    {
-      "id": "754",
-      "name": "Pabna District",
-      "country_id": "19"
-    },
-    {
-      "id": "800",
-      "name": "Panchagarh District",
-      "country_id": "19"
-    },
-    {
-      "id": "777",
-      "name": "Patuakhali District",
-      "country_id": "19"
-    },
-    {
-      "id": "791",
-      "name": "Pirojpur District",
-      "country_id": "19"
-    },
-    {
-      "id": "773",
-      "name": "Rajbari District",
-      "country_id": "19"
-    },
-    {
-      "id": "813",
-      "name": "Rajshahi District",
+      "name": "Mymensingh ",
       "country_id": "19"
     },
     {
       "id": "753",
-      "name": "Rajshahi Division",
-      "country_id": "19"
-    },
-    {
-      "id": "809",
-      "name": "Rangamati Hill District",
-      "country_id": "19"
-    },
-    {
-      "id": "759",
-      "name": "Rangpur District",
+      "name": "Rajshahi ",
       "country_id": "19"
     },
     {
       "id": "750",
-      "name": "Rangpur Division",
-      "country_id": "19"
-    },
-    {
-      "id": "799",
-      "name": "Satkhira District",
-      "country_id": "19"
-    },
-    {
-      "id": "801",
-      "name": "Shariatpur District",
-      "country_id": "19"
-    },
-    {
-      "id": "755",
-      "name": "Sherpur District",
-      "country_id": "19"
-    },
-    {
-      "id": "781",
-      "name": "Sirajganj District",
-      "country_id": "19"
-    },
-    {
-      "id": "812",
-      "name": "Sunamganj District",
-      "country_id": "19"
-    },
-    {
-      "id": "767",
-      "name": "Sylhet District",
+      "name": "Rangpur ",
       "country_id": "19"
     },
     {
       "id": "765",
-      "name": "Sylhet Division",
-      "country_id": "19"
-    },
-    {
-      "id": "782",
-      "name": "Tangail District",
-      "country_id": "19"
-    },
-    {
-      "id": "804",
-      "name": "Thakurgaon District",
+      "name": "Sylhet ",
       "country_id": "19"
     },
     {
@@ -2152,97 +1842,102 @@
     },
     {
       "id": "240",
-      "name": "Bumthang District",
+      "name": "Bumthang ",
       "country_id": "26"
     },
     {
       "id": "239",
-      "name": "Chukha District",
+      "name": "Chukha ",
       "country_id": "26"
     },
     {
       "id": "238",
-      "name": "Dagana District",
+      "name": "Dagana ",
       "country_id": "26"
     },
     {
       "id": "229",
-      "name": "Gasa District",
+      "name": "Gasa ",
       "country_id": "26"
     },
     {
       "id": "232",
-      "name": "Haa District",
+      "name": "Haa ",
       "country_id": "26"
     },
     {
       "id": "234",
-      "name": "Lhuntse District",
+      "name": "Lhuntse ",
       "country_id": "26"
     },
     {
       "id": "242",
-      "name": "Mongar District",
+      "name": "Mongar ",
       "country_id": "26"
     },
     {
       "id": "237",
-      "name": "Paro District",
+      "name": "Paro ",
       "country_id": "26"
     },
     {
       "id": "244",
-      "name": "Pemagatshel District",
+      "name": "Pemagatshel ",
       "country_id": "26"
     },
     {
       "id": "235",
-      "name": "Punakha District",
+      "name": "Punakha ",
       "country_id": "26"
     },
     {
       "id": "243",
-      "name": "Samdrup Jongkhar District",
+      "name": "Samdrup Jongkhar ",
       "country_id": "26"
     },
     {
       "id": "246",
-      "name": "Samtse District",
+      "name": "Samtse ",
       "country_id": "26"
     },
     {
       "id": "247",
-      "name": "Sarpang District",
+      "name": "Sarpang ",
       "country_id": "26"
     },
     {
       "id": "241",
-      "name": "Thimphu District",
+      "name": "Thimphu ",
+      "country_id": "26"
+    },
+    {
+      "id": "5242",
+      "name": "Trashi Yangtse\t",
       "country_id": "26"
     },
     {
       "id": "236",
-      "name": "Trashigang District",
+      "name": "Trashigang ",
       "country_id": "26"
     },
     {
       "id": "245",
-      "name": "Trongsa District",
+      "name": "Trongsa ",
       "country_id": "26"
     },
     {
       "id": "230",
-      "name": "Tsirang District",
+      "name": "Tsirang ",
       "country_id": "26"
     },
     {
       "id": "231",
-      "name": "Wangdue Phodrang District",
+      "name": "Wangdue Phodrang ",
       "country_id": "26"
     },
     {
       "id": "233",
-      "name": "Zhemgang District",
+      "name": "Zhemgang ",
       "country_id": "26"
     },
     {
@@ -6806,36 +6501,6 @@
       "country_id": "79"
     },
     {
-      "id": "2666",
-      "name": "Banjul",
-      "country_id": "80"
-    },
-    {
-      "id": "2669",
-      "name": "Central River Division",
-      "country_id": "80"
-    },
-    {
-      "id": "2670",
-      "name": "Lower River Division",
-      "country_id": "80"
-    },
-    {
-      "id": "2671",
-      "name": "North Bank Division",
-      "country_id": "80"
-    },
-    {
-      "id": "2668",
-      "name": "Upper River Division",
-      "country_id": "80"
-    },
-    {
-      "id": "2667",
-      "name": "West Coast Division",
-      "country_id": "80"
-    },
-    {
       "id": "901",
       "name": "Abkhazia",
       "country_id": "81"
@@ -6937,7 +6602,7 @@
     },
     {
       "id": "3018",
-      "name": "Hesse",
+      "name": "Hessen",
       "country_id": "82"
     },
     {
@@ -7292,107 +6957,112 @@
     },
     {
       "id": "3671",
-      "name": "Alta Verapaz Department",
+      "name": "Alta Verapaz ",
       "country_id": "90"
     },
     {
       "id": "3674",
-      "name": "Baja Verapaz Department",
+      "name": "Baja Verapaz ",
       "country_id": "90"
     },
     {
       "id": "3675",
-      "name": "Chimaltenango Department",
+      "name": "Chimaltenango ",
       "country_id": "90"
     },
     {
       "id": "3666",
-      "name": "Chiquimula Department",
+      "name": "Chiquimula ",
       "country_id": "90"
     },
     {
       "id": "3662",
-      "name": "El Progreso Department",
+      "name": "El Progreso ",
       "country_id": "90"
     },
     {
       "id": "3677",
-      "name": "Escuintla Department",
+      "name": "Escuintla ",
       "country_id": "90"
     },
     {
       "id": "3672",
-      "name": "Guatemala Department",
+      "name": "Guatemala ",
       "country_id": "90"
     },
     {
       "id": "3670",
-      "name": "Huehuetenango Department",
+      "name": "Huehuetenango ",
       "country_id": "90"
     },
     {
       "id": "3659",
-      "name": "Izabal Department",
+      "name": "Izabal ",
       "country_id": "90"
     },
     {
       "id": "3658",
-      "name": "Jalapa Department",
+      "name": "Jalapa ",
       "country_id": "90"
     },
     {
       "id": "3673",
-      "name": "Jutiapa Department",
+      "name": "Jutiapa ",
       "country_id": "90"
     },
     {
       "id": "3669",
-      "name": "Petén Department",
+      "name": "Petén ",
       "country_id": "90"
     },
     {
       "id": "3668",
-      "name": "Quetzaltenango Department",
+      "name": "Quetzaltenango ",
       "country_id": "90"
     },
     {
       "id": "3657",
-      "name": "Quiché Department",
+      "name": "Quiché ",
       "country_id": "90"
     },
     {
       "id": "3664",
-      "name": "Retalhuleu Department",
+      "name": "Retalhuleu ",
       "country_id": "90"
     },
     {
       "id": "3676",
-      "name": "Sacatepéquez Department",
+      "name": "Sacatepéquez ",
       "country_id": "90"
     },
     {
       "id": "3667",
-      "name": "San Marcos Department",
+      "name": "San Marcos ",
       "country_id": "90"
     },
     {
       "id": "3665",
-      "name": "Santa Rosa Department",
+      "name": "Santa Rosa ",
       "country_id": "90"
     },
     {
       "id": "3661",
-      "name": "Sololá Department",
+      "name": "Sololá ",
       "country_id": "90"
     },
     {
       "id": "3660",
-      "name": "Suchitepéquez Department",
+      "name": "Suchitepéquez ",
       "country_id": "90"
     },
     {
       "id": "3663",
-      "name": "Totonicapán Department",
+      "name": "Totonicapán ",
+      "country_id": "90"
+    },
+    {
+      "id": "5239",
+      "name": "Zacapa",
       "country_id": "90"
     },
     {
@@ -8488,6 +8158,26 @@
     {
       "id": "1799",
       "name": "Papua Barat",
+      "country_id": "102"
+    },
+    {
+      "id": "5238",
+      "name": "Papua Barat Daya",
+      "country_id": "102"
+    },
+    {
+      "id": "5236",
+      "name": "Papua Pegunungan",
+      "country_id": "102"
+    },
+    {
+      "id": "5237",
+      "name": "Papua Selatan",
+      "country_id": "102"
+    },
+    {
+      "id": "5235",
+      "name": "Papua Tengah",
       "country_id": "102"
     },
     {
@@ -13971,98 +13661,38 @@
       "country_id": "153"
     },
     {
-      "id": "2082",
-      "name": "Bagmati Zone",
-      "country_id": "154"
-    },
-    {
-      "id": "2071",
-      "name": "Bheri Zone",
-      "country_id": "154"
-    },
-    {
       "id": "2073",
-      "name": "Central Region",
-      "country_id": "154"
-    },
-    {
-      "id": "2080",
-      "name": "Dhaulagiri Zone",
+      "name": "Bagmati",
       "country_id": "154"
     },
     {
       "id": "2069",
-      "name": "Eastern Development Region",
+      "name": "Gandaki",
       "country_id": "154"
     },
     {
       "id": "2068",
-      "name": "Far-Western Development Region",
-      "country_id": "154"
-    },
-    {
-      "id": "2081",
-      "name": "Gandaki Zone",
-      "country_id": "154"
-    },
-    {
-      "id": "2076",
-      "name": "Janakpur Zone",
-      "country_id": "154"
-    },
-    {
-      "id": "2079",
-      "name": "Karnali Zone",
-      "country_id": "154"
-    },
-    {
-      "id": "2072",
-      "name": "Kosi Zone",
-      "country_id": "154"
-    },
-    {
-      "id": "2074",
-      "name": "Lumbini Zone",
-      "country_id": "154"
-    },
-    {
-      "id": "2083",
-      "name": "Mahakali Zone",
-      "country_id": "154"
-    },
-    {
-      "id": "2070",
-      "name": "Mechi Zone",
+      "name": "Karnali",
       "country_id": "154"
     },
     {
       "id": "2066",
-      "name": "Mid-Western Region",
-      "country_id": "154"
-    },
-    {
-      "id": "2075",
-      "name": "Narayani Zone",
-      "country_id": "154"
-    },
-    {
-      "id": "2077",
-      "name": "Rapti Zone",
-      "country_id": "154"
-    },
-    {
-      "id": "2084",
-      "name": "Sagarmatha Zone",
-      "country_id": "154"
-    },
-    {
-      "id": "2078",
-      "name": "Seti Zone",
+      "name": "Koshi",
       "country_id": "154"
     },
     {
       "id": "2067",
-      "name": "Western Region",
+      "name": "Lumbini",
+      "country_id": "154"
+    },
+    {
+      "id": "5240",
+      "name": "Madhesh",
+      "country_id": "154"
+    },
+    {
+      "id": "5241",
+      "name": "Sudurpashchim",
       "country_id": "154"
     },
     {
@@ -21409,6 +21039,36 @@
       "id": "3599",
       "name": "West Grand Bahama",
       "country_id": "17"
+    },
+    {
+      "id": "2666",
+      "name": "Banjul",
+      "country_id": "80"
+    },
+    {
+      "id": "2669",
+      "name": "Central River Division",
+      "country_id": "80"
+    },
+    {
+      "id": "2670",
+      "name": "Lower River Division",
+      "country_id": "80"
+    },
+    {
+      "id": "2671",
+      "name": "North Bank Division",
+      "country_id": "80"
+    },
+    {
+      "id": "2668",
+      "name": "Upper River Division",
+      "country_id": "80"
+    },
+    {
+      "id": "2667",
+      "name": "West Coast Division",
+      "country_id": "80"
     },
     {
       "id": "4520",

@@ -321,10 +321,6 @@
       "name": "Gabon"
     },
     {
-      "id": "80",
-      "name": "Gambia The"
-    },
-    {
       "id": "81",
       "name": "Georgia"
     },
@@ -883,6 +879,10 @@
     {
       "id": "17",
       "name": "The Bahamas"
+    },
+    {
+      "id": "80",
+      "name": "The Gambia "
     },
     {
       "id": "63",
