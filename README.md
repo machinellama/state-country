@@ -4,7 +4,7 @@ Get a list of all countries, states, or states within a country.
 
 Note: only returns names for countries and states, which makes this a simple and minimal package.
 
-Other popular libraries include city data and extended country/state data (e.g. phone or currency info), which inflates package size by quite a lot. But if you don't need city data and you only need country/state names, this package is a fast, simple, and light-weight alternative.
+Other popular libraries include city data and extended country/state data (e.g. phone or currency info), which inflates package size by quite a lot. But if you don't need city data and you only need country/state names, this package is a fast, simple, and lightweight alternative.
 
 **Installation**
 
@@ -30,19 +30,19 @@ Other popular libraries include city data and extended country/state data (e.g. 
 
 **Get all states in a given country**
 
-     const statesInCountryList = stateCountry.getAllStatesInCountry('jaPaN');
+     const statesInCountryList = stateCountry.getAllStatesInCountry('japan');
 
 **Search countries**
 
-     const searchCountriesList = stateCountry.searchCountries('jap');
+     const searchCountriesList = stateCountry.searchCountries('ja');
 
 **Search states**
 
-     const searchStatesList = stateCountry.searchStates('North');
+     const searchStatesList = stateCountry.searchStates('north');
 
 **Search states in a given country**
 
-     const searchStatesInCountryList = stateCountry.searchStatesInCountry('noRTH', 'united states');
+     const searchStatesInCountryList = stateCountry.searchStatesInCountry('north', 'united states');
 
 ### Data Source
 
