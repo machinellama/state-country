@@ -771,6 +771,31 @@
       "country_id": "4"
     },
     {
+      "id": "5375",
+      "name": "Eastern",
+      "country_id": "5"
+    },
+    {
+      "id": "5376",
+      "name": "Manuʻa",
+      "country_id": "5"
+    },
+    {
+      "id": "5378",
+      "name": "Rose",
+      "country_id": "5"
+    },
+    {
+      "id": "5377",
+      "name": "Swains",
+      "country_id": "5"
+    },
+    {
+      "id": "5374",
+      "name": "Western",
+      "country_id": "5"
+    },
+    {
       "id": "488",
       "name": "Andorra la Vella",
       "country_id": "6"
@@ -1001,6 +1026,11 @@
       "country_id": "10"
     },
     {
+      "id": "4880",
+      "name": "Autonomous City of Buenos Aires",
+      "country_id": "11"
+    },
+    {
       "id": "3656",
       "name": "Buenos Aires",
       "country_id": "11"
@@ -1018,11 +1048,6 @@
     {
       "id": "3651",
       "name": "Chubut",
-      "country_id": "11"
-    },
-    {
-      "id": "4880",
-      "name": "Ciudad Autónoma de Buenos Aires",
       "country_id": "11"
     },
     {
@@ -1178,6 +1203,11 @@
     {
       "id": "5243",
       "name": "Noord",
+      "country_id": "13"
+    },
+    {
+      "id": "5341",
+      "name": "Oranjestad",
       "country_id": "13"
     },
     {
@@ -2633,6 +2663,11 @@
     {
       "id": "3131",
       "name": "Boulgou",
+      "country_id": "35"
+    },
+    {
+      "id": "5343",
+      "name": "Boulkiemde",
       "country_id": "35"
     },
     {
@@ -5457,7 +5492,7 @@
     },
     {
       "id": "3222",
-      "name": "Kafr el-Sheikh",
+      "name": "Kafr El-Sheikh",
       "country_id": "65"
     },
     {
@@ -6661,6 +6696,31 @@
       "country_id": "75"
     },
     {
+      "id": "5369",
+      "name": "Austral Islands",
+      "country_id": "77"
+    },
+    {
+      "id": "5370",
+      "name": "Leeward Islands",
+      "country_id": "77"
+    },
+    {
+      "id": "5371",
+      "name": "Marquesas Islands",
+      "country_id": "77"
+    },
+    {
+      "id": "5372",
+      "name": "Tuamotu-Gambier",
+      "country_id": "77"
+    },
+    {
+      "id": "5373",
+      "name": "Windward Islands",
+      "country_id": "77"
+    },
+    {
       "id": "2727",
       "name": "Estuaire",
       "country_id": "79"
@@ -6731,11 +6791,6 @@
       "country_id": "81"
     },
     {
-      "id": "897",
-      "name": "Khelvachauri",
-      "country_id": "81"
-    },
-    {
       "id": "904",
       "name": "Kvemo Kartli",
       "country_id": "81"
@@ -6758,11 +6813,6 @@
     {
       "id": "906",
       "name": "Samtskhe-Javakheti",
-      "country_id": "81"
-    },
-    {
-      "id": "898",
-      "name": "Senaki",
       "country_id": "81"
     },
     {
@@ -7126,6 +7176,31 @@
       "country_id": "85"
     },
     {
+      "id": "5379",
+      "name": "Avannaata",
+      "country_id": "86"
+    },
+    {
+      "id": "5380",
+      "name": "Kujalleq",
+      "country_id": "86"
+    },
+    {
+      "id": "5381",
+      "name": "Qeqertalik",
+      "country_id": "86"
+    },
+    {
+      "id": "5382",
+      "name": "Qeqqata",
+      "country_id": "86"
+    },
+    {
+      "id": "5383",
+      "name": "Sermersooq",
+      "country_id": "86"
+    },
+    {
       "id": "3867",
       "name": "Carriacou",
       "country_id": "87"
@@ -7159,6 +7234,16 @@
       "id": "3863",
       "name": "Saint Patrick",
       "country_id": "87"
+    },
+    {
+      "id": "5384",
+      "name": "Basse-Terre",
+      "country_id": "88"
+    },
+    {
+      "id": "5385",
+      "name": "Pointe-à-Pitre",
+      "country_id": "88"
     },
     {
       "id": "5254",
@@ -7366,6 +7451,66 @@
       "country_id": "90"
     },
     {
+      "id": "5389",
+      "name": "Alderney",
+      "country_id": "91"
+    },
+    {
+      "id": "5386",
+      "name": "Castel",
+      "country_id": "91"
+    },
+    {
+      "id": "5387",
+      "name": "Forest",
+      "country_id": "91"
+    },
+    {
+      "id": "5392",
+      "name": "Sark",
+      "country_id": "91"
+    },
+    {
+      "id": "5388",
+      "name": "St Andrew",
+      "country_id": "91"
+    },
+    {
+      "id": "5390",
+      "name": "St Martin",
+      "country_id": "91"
+    },
+    {
+      "id": "5391",
+      "name": "St Peter Port",
+      "country_id": "91"
+    },
+    {
+      "id": "5393",
+      "name": "St Pierre du Bois",
+      "country_id": "91"
+    },
+    {
+      "id": "5394",
+      "name": "St Sampson",
+      "country_id": "91"
+    },
+    {
+      "id": "5395",
+      "name": "St Saviour",
+      "country_id": "91"
+    },
+    {
+      "id": "5396",
+      "name": "Torteval",
+      "country_id": "91"
+    },
+    {
+      "id": "5397",
+      "name": "Vale",
+      "country_id": "91"
+    },
+    {
       "id": "2672",
       "name": "Beyla",
       "country_id": "92"
@@ -7413,6 +7558,11 @@
     {
       "id": "2681",
       "name": "Dubréka",
+      "country_id": "92"
+    },
+    {
+      "id": "5344",
+      "name": "Faranah",
       "country_id": "92"
     },
     {
@@ -8836,6 +8986,11 @@
       "country_id": "105"
     },
     {
+      "id": "5345",
+      "name": "Leitrim",
+      "country_id": "105"
+    },
+    {
       "id": "1094",
       "name": "Limerick",
       "country_id": "105"
@@ -8973,6 +9128,11 @@
     {
       "id": "1688",
       "name": "Apulia",
+      "country_id": "107"
+    },
+    {
+      "id": "1761",
+      "name": "Arezzo",
       "country_id": "107"
     },
     {
@@ -9228,11 +9388,6 @@
     {
       "id": "1760",
       "name": "Matera",
-      "country_id": "107"
-    },
-    {
-      "id": "1761",
-      "name": "Medio Campidano",
       "country_id": "107"
     },
     {
@@ -10301,6 +10456,11 @@
       "country_id": "117"
     },
     {
+      "id": "976",
+      "name": "Al Asimah",
+      "country_id": "117"
+    },
+    {
       "id": "975",
       "name": "Al Farwaniyah",
       "country_id": "117"
@@ -10308,11 +10468,6 @@
     {
       "id": "972",
       "name": "Al Jahra",
-      "country_id": "117"
-    },
-    {
-      "id": "976",
-      "name": "Capital",
       "country_id": "117"
     },
     {
@@ -11006,6 +11161,11 @@
       "country_id": "126"
     },
     {
+      "id": "1599",
+      "name": "Alytus",
+      "country_id": "126"
+    },
+    {
       "id": "1574",
       "name": "Alytus",
       "country_id": "126"
@@ -11016,8 +11176,8 @@
       "country_id": "126"
     },
     {
-      "id": "1599",
-      "name": "Alytus",
+      "id": "5346",
+      "name": "Anykščiai",
       "country_id": "126"
     },
     {
@@ -11076,12 +11236,12 @@
       "country_id": "126"
     },
     {
-      "id": "1580",
+      "id": "1556",
       "name": "Kaunas",
       "country_id": "126"
     },
     {
-      "id": "1556",
+      "id": "1580",
       "name": "Kaunas",
       "country_id": "126"
     },
@@ -11101,17 +11261,17 @@
       "country_id": "126"
     },
     {
-      "id": "1604",
-      "name": "Klaipėda",
-      "country_id": "126"
-    },
-    {
       "id": "1597",
       "name": "Klaipeda",
       "country_id": "126"
     },
     {
       "id": "1600",
+      "name": "Klaipėda",
+      "country_id": "126"
+    },
+    {
+      "id": "1604",
       "name": "Klaipėda",
       "country_id": "126"
     },
@@ -11131,12 +11291,12 @@
       "country_id": "126"
     },
     {
-      "id": "1570",
+      "id": "1610",
       "name": "Marijampolė",
       "country_id": "126"
     },
     {
-      "id": "1610",
+      "id": "1570",
       "name": "Marijampolė",
       "country_id": "126"
     },
@@ -11171,7 +11331,7 @@
       "country_id": "126"
     },
     {
-      "id": "1614",
+      "id": "1589",
       "name": "Panevėžys",
       "country_id": "126"
     },
@@ -11181,7 +11341,7 @@
       "country_id": "126"
     },
     {
-      "id": "1589",
+      "id": "1614",
       "name": "Panevėžys",
       "country_id": "126"
     },
@@ -11231,12 +11391,12 @@
       "country_id": "126"
     },
     {
-      "id": "1609",
+      "id": "1554",
       "name": "Šiauliai",
       "country_id": "126"
     },
     {
-      "id": "1554",
+      "id": "1609",
       "name": "Šiauliai",
       "country_id": "126"
     },
@@ -11271,22 +11431,22 @@
       "country_id": "126"
     },
     {
-      "id": "1572",
-      "name": "Tauragė",
-      "country_id": "126"
-    },
-    {
       "id": "1573",
       "name": "Tauragė",
       "country_id": "126"
     },
     {
-      "id": "1569",
-      "name": "Telšiai",
+      "id": "1572",
+      "name": "Tauragė",
       "country_id": "126"
     },
     {
       "id": "1608",
+      "name": "Telšiai",
+      "country_id": "126"
+    },
+    {
+      "id": "1569",
       "name": "Telšiai",
       "country_id": "126"
     },
@@ -11301,12 +11461,12 @@
       "country_id": "126"
     },
     {
-      "id": "1621",
+      "id": "1598",
       "name": "Utena",
       "country_id": "126"
     },
     {
-      "id": "1598",
+      "id": "1621",
       "name": "Utena",
       "country_id": "126"
     },
@@ -11321,7 +11481,7 @@
       "country_id": "126"
     },
     {
-      "id": "1592",
+      "id": "1601",
       "name": "Vilnius",
       "country_id": "126"
     },
@@ -11331,7 +11491,7 @@
       "country_id": "126"
     },
     {
-      "id": "1601",
+      "id": "1592",
       "name": "Vilnius",
       "country_id": "126"
     },
@@ -11523,6 +11683,11 @@
     {
       "id": "3104",
       "name": "Mzimba",
+      "country_id": "131"
+    },
+    {
+      "id": "5347",
+      "name": "Neno",
       "country_id": "131"
     },
     {
@@ -12221,6 +12386,26 @@
       "country_id": "137"
     },
     {
+      "id": "5398",
+      "name": "Fort-de-France",
+      "country_id": "138"
+    },
+    {
+      "id": "5399",
+      "name": "La Trinité",
+      "country_id": "138"
+    },
+    {
+      "id": "5400",
+      "name": "Le Marin",
+      "country_id": "138"
+    },
+    {
+      "id": "5401",
+      "name": "Saint-Pierre",
+      "country_id": "138"
+    },
+    {
       "id": "3344",
       "name": "Adrar",
       "country_id": "139"
@@ -12354,6 +12539,91 @@
       "id": "3257",
       "name": "Savanne",
       "country_id": "140"
+    },
+    {
+      "id": "5415",
+      "name": "Acoua",
+      "country_id": "141"
+    },
+    {
+      "id": "5417",
+      "name": "Bandraboua",
+      "country_id": "141"
+    },
+    {
+      "id": "5406",
+      "name": "Bandrélé",
+      "country_id": "141"
+    },
+    {
+      "id": "5408",
+      "name": "Boueni",
+      "country_id": "141"
+    },
+    {
+      "id": "5412",
+      "name": "Chiconi",
+      "country_id": "141"
+    },
+    {
+      "id": "5409",
+      "name": "Chirongui",
+      "country_id": "141"
+    },
+    {
+      "id": "5405",
+      "name": "Dembeni",
+      "country_id": "141"
+    },
+    {
+      "id": "5402",
+      "name": "Dzaoudzi",
+      "country_id": "141"
+    },
+    {
+      "id": "5407",
+      "name": "Kani Keli",
+      "country_id": "141"
+    },
+    {
+      "id": "5418",
+      "name": "Koungou",
+      "country_id": "141"
+    },
+    {
+      "id": "5414",
+      "name": "M'Tsangamouji",
+      "country_id": "141"
+    },
+    {
+      "id": "5404",
+      "name": "Mamoudzou",
+      "country_id": "141"
+    },
+    {
+      "id": "5416",
+      "name": "Mtsamboro",
+      "country_id": "141"
+    },
+    {
+      "id": "5411",
+      "name": "Ouangani",
+      "country_id": "141"
+    },
+    {
+      "id": "5403",
+      "name": "Pamandzi",
+      "country_id": "141"
+    },
+    {
+      "id": "5410",
+      "name": "Sada",
+      "country_id": "141"
+    },
+    {
+      "id": "5413",
+      "name": "Tsingoni",
+      "country_id": "141"
     },
     {
       "id": "3456",
@@ -12944,6 +13214,21 @@
       "id": "32",
       "name": "Žabljak",
       "country_id": "147"
+    },
+    {
+      "id": "5421",
+      "name": "Saint Anthony",
+      "country_id": "148"
+    },
+    {
+      "id": "5420",
+      "name": "Saint Georges",
+      "country_id": "148"
+    },
+    {
+      "id": "5419",
+      "name": "Saint Peter",
+      "country_id": "148"
     },
     {
       "id": "4928",
@@ -14164,6 +14449,76 @@
       "id": "299",
       "name": "Zamfara",
       "country_id": "161"
+    },
+    {
+      "id": "5435",
+      "name": "Alofi North",
+      "country_id": "162"
+    },
+    {
+      "id": "5434",
+      "name": "Alofi South",
+      "country_id": "162"
+    },
+    {
+      "id": "5432",
+      "name": "Avatele",
+      "country_id": "162"
+    },
+    {
+      "id": "5430",
+      "name": "Hakupu",
+      "country_id": "162"
+    },
+    {
+      "id": "5425",
+      "name": "Hikutavake",
+      "country_id": "162"
+    },
+    {
+      "id": "5428",
+      "name": "Lakepa",
+      "country_id": "162"
+    },
+    {
+      "id": "5429",
+      "name": "Liku",
+      "country_id": "162"
+    },
+    {
+      "id": "5422",
+      "name": "Makefu",
+      "country_id": "162"
+    },
+    {
+      "id": "5427",
+      "name": "Mutalau",
+      "country_id": "162"
+    },
+    {
+      "id": "5424",
+      "name": "Namukulu",
+      "country_id": "162"
+    },
+    {
+      "id": "5433",
+      "name": "Tamakautoga",
+      "country_id": "162"
+    },
+    {
+      "id": "5426",
+      "name": "Toi",
+      "country_id": "162"
+    },
+    {
+      "id": "5423",
+      "name": "Tuapa",
+      "country_id": "162"
+    },
+    {
+      "id": "5431",
+      "name": "Vaiea",
+      "country_id": "162"
     },
     {
       "id": "3998",
@@ -16516,6 +16871,26 @@
       "country_id": "179"
     },
     {
+      "id": "5436",
+      "name": "Saint-Benoît",
+      "country_id": "180"
+    },
+    {
+      "id": "5437",
+      "name": "Saint-Denis",
+      "country_id": "180"
+    },
+    {
+      "id": "5438",
+      "name": "Saint-Paul",
+      "country_id": "180"
+    },
+    {
+      "id": "5439",
+      "name": "Saint-Pierre",
+      "country_id": "180"
+    },
+    {
       "id": "4724",
       "name": "Alba",
       "country_id": "181"
@@ -17166,6 +17541,46 @@
       "country_id": "183"
     },
     {
+      "id": "5440",
+      "name": "Alarm Forest",
+      "country_id": "184"
+    },
+    {
+      "id": "5441",
+      "name": "Blue Hill",
+      "country_id": "184"
+    },
+    {
+      "id": "5442",
+      "name": "Half Tree Hollow",
+      "country_id": "184"
+    },
+    {
+      "id": "5443",
+      "name": "Jamestown",
+      "country_id": "184"
+    },
+    {
+      "id": "5444",
+      "name": "Levelwood",
+      "country_id": "184"
+    },
+    {
+      "id": "5445",
+      "name": "Longwood",
+      "country_id": "184"
+    },
+    {
+      "id": "5447",
+      "name": "Saint Paul's",
+      "country_id": "184"
+    },
+    {
+      "id": "5446",
+      "name": "Sandy Bay",
+      "country_id": "184"
+    },
+    {
       "id": "3833",
       "name": "Christ Church Nichola Town",
       "country_id": "185"
@@ -17178,6 +17593,11 @@
     {
       "id": "3836",
       "name": "Saint Anne Sandy Point",
+      "country_id": "185"
+    },
+    {
+      "id": "5348",
+      "name": "Saint George Basseterre",
       "country_id": "185"
     },
     {
@@ -19696,6 +20116,11 @@
       "country_id": "208"
     },
     {
+      "id": "5342",
+      "name": "Kurunegala",
+      "country_id": "208"
+    },
+    {
       "id": "2805",
       "name": "Mannar",
       "country_id": "208"
@@ -21891,6 +22316,36 @@
       "country_id": "226"
     },
     {
+      "id": "5367",
+      "name": "Grand Turk",
+      "country_id": "227"
+    },
+    {
+      "id": "5365",
+      "name": "Middle Caicos",
+      "country_id": "227"
+    },
+    {
+      "id": "5364",
+      "name": "North Caicos",
+      "country_id": "227"
+    },
+    {
+      "id": "5363",
+      "name": "Providenciales",
+      "country_id": "227"
+    },
+    {
+      "id": "5368",
+      "name": "Salt Cay",
+      "country_id": "227"
+    },
+    {
+      "id": "5366",
+      "name": "South Caicos",
+      "country_id": "227"
+    },
+    {
       "id": "3951",
       "name": "Funafuti",
       "country_id": "228"
@@ -21993,6 +22448,11 @@
     {
       "id": "387",
       "name": "Bugiri",
+      "country_id": "229"
+    },
+    {
+      "id": "5350",
+      "name": "Bugweri",
       "country_id": "229"
     },
     {
@@ -22101,6 +22561,11 @@
       "country_id": "229"
     },
     {
+      "id": "5358",
+      "name": "Hoima",
+      "country_id": "229"
+    },
+    {
       "id": "339",
       "name": "Ibanda",
       "country_id": "229"
@@ -22151,6 +22616,11 @@
       "country_id": "229"
     },
     {
+      "id": "5352",
+      "name": "Kalaki",
+      "country_id": "229"
+    },
+    {
       "id": "405",
       "name": "Kalangala",
       "country_id": "229"
@@ -22191,6 +22661,21 @@
       "country_id": "229"
     },
     {
+      "id": "5351",
+      "name": "Kapelebyong",
+      "country_id": "229"
+    },
+    {
+      "id": "5355",
+      "name": "Karenga",
+      "country_id": "229"
+    },
+    {
+      "id": "5349",
+      "name": "Kasanda",
+      "country_id": "229"
+    },
+    {
       "id": "440",
       "name": "Kasese",
       "country_id": "229"
@@ -22203,6 +22688,11 @@
     {
       "id": "368",
       "name": "Kayunga",
+      "country_id": "229"
+    },
+    {
+      "id": "5360",
+      "name": "Kazo",
       "country_id": "229"
     },
     {
@@ -22221,6 +22711,11 @@
       "country_id": "229"
     },
     {
+      "id": "5359",
+      "name": "Kikuube",
+      "country_id": "229"
+    },
+    {
       "id": "355",
       "name": "Kiruhura",
       "country_id": "229"
@@ -22233,6 +22728,11 @@
     {
       "id": "409",
       "name": "Kisoro",
+      "country_id": "229"
+    },
+    {
+      "id": "5361",
+      "name": "Kitagwenda",
       "country_id": "229"
     },
     {
@@ -22258,6 +22758,11 @@
     {
       "id": "425",
       "name": "Kumi",
+      "country_id": "229"
+    },
+    {
+      "id": "5353",
+      "name": "Kwania",
       "country_id": "229"
     },
     {
@@ -22313,6 +22818,11 @@
     {
       "id": "376",
       "name": "Lyantonde",
+      "country_id": "229"
+    },
+    {
+      "id": "5356",
+      "name": "Madi-Okollo",
       "country_id": "229"
     },
     {
@@ -22386,6 +22896,11 @@
       "country_id": "229"
     },
     {
+      "id": "5354",
+      "name": "Nabilatuk",
+      "country_id": "229"
+    },
+    {
       "id": "393",
       "name": "Nakapiripirit",
       "country_id": "229"
@@ -22451,6 +22966,11 @@
       "country_id": "229"
     },
     {
+      "id": "5357",
+      "name": "Obongi",
+      "country_id": "229"
+    },
+    {
       "id": "374",
       "name": "Omoro",
       "country_id": "229"
@@ -22503,6 +23023,11 @@
     {
       "id": "324",
       "name": "Rukungiri",
+      "country_id": "229"
+    },
+    {
+      "id": "5362",
+      "name": "Rwampara",
       "country_id": "229"
     },
     {
@@ -22712,7 +23237,7 @@
     },
     {
       "id": "3394",
-      "name": "Ras al-Khaimah",
+      "name": "Ras Al Khaimah",
       "country_id": "231"
     },
     {
@@ -22722,7 +23247,7 @@
     },
     {
       "id": "3392",
-      "name": "Umm al-Quwain",
+      "name": "Umm Al Quwain",
       "country_id": "231"
     },
     {
